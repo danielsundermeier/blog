@@ -50,3 +50,21 @@ Ich möchte meine Tage aber nicht zu voll packen. Ich möchte nicht, dass es in 
 Ich möchte aber deutlich mehr soziale Kontakte haben. Dazu möchte ich mehr mit Menschen reden, mich treffen oder telefonieren. Ich kann so Beziehungen vertiefen und neue aufbauen.
 
 Ich stelle mir immer die Frage, wenn ich mir überlege welche Aktivitäten ich machen möchte, ob ich das wirklich für mich mache oder weil ich denke das anderes cool finden. Ich finde es sehr schwierig das herauszufinden. Ich werde also alles einmal ausprobieren und bewerten, wie es mir gefallen hat. Dann entscheide ich wie ich weitermache. Es macht keinen Sinn Dinge zu tun, die mir keinen Spaß machen, nur um andere zu beeindrucken.
+
+## Reisen
+
+Ich möchte mehr von der Welt sehen neue Kulturen kennen lernen, Abenteuer erleben und vor allem neue Blickwinkel kennen lernen. Ich denke das Reisen ist das für eine sehr gute Möglichkeit.
+
+Ich könnte mir, zumindest für eine Zeit, einen Lebensstil als digitaler Nomade vorstellen und alle paar Wochen an einem neuen Ort leben. Dabei würde ich weiter arbeiten, aber in meiner Freizeit die Welt entdecken.
+
+Das ist natürlich ein sehr großer Schritt und ich möchte es erst im Kleinen ausprobieren. Dafür habe ich mir überlegt zuerst einmal im Monat (?) am Wochenende für einen Tag in eine neue Stadt zu fahren und sie mir anzugucken oder ein Abenteuer zu erleben, wie oben beschrieben.
+
+Wenn mir das gefällt, verlängere ich die Zeit auf ein Wochenende, Freitag nach Feierabend bis Sonntag Mittag. Ich würde mir dann eine Wohnung/AirBnB in der Stadt suchen und dort für ein Wochenende Urlaub machen. Vielleicht auch nur ein Zimmer, damit ich Tipps vom Gastgeber bekommen kann. Das würde auch ganz gut in meinen Trainingsplan passen, denn dann haben meine Muskeln ein Wochenende Erholung.
+
+Der nächste Schritt wäre dann eine Woche (pro Monat?) in eine neue Stadt zu reisen. Ich glaube so kann ich schon einen guten Einblick bekommen.
+
+Je länger ich an einem Ort bleibe, desto weiter kann ich dorthin fahren.
+
+Wenn mir das alles gefällt könnte ich über den Winter verreisen, zu Orten in denen es warm ist. Ich bin kein Fan vom Winter. Im Sommer wäre ich weiterhin zu Hause.
+
+Am Ende steht dann der Schritt zum digitalen Nomaden. Ich weiß nicht, ob das wirklich die Lösung ist oder ob ein Schritt zwischendurch schon reicht. Ich werde es ausprobieren und dann meine Pläne entsprechend anpassen.
