@@ -6,3 +6,4 @@
 [] "Dopamin Detox"
 [] Langweile ist (teilweise) gut und wichtig
 [] Balance zwischen Extremen finden
+[] Input vs. Output
