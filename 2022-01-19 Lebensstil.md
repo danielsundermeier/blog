@@ -1,4 +1,4 @@
-## Lebensstil
+# Lebensstil
 
 Wir leben gerade in der besten Zeit und trotzdem sind viele unglücklich und unzufrieden. Ich glaube wir machen zu wenig, was die Menschen früher glücklich gemacht hat und zu viel von der Technologie, die uns unglücklich macht.
 
