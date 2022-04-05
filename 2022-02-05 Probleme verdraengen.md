@@ -46,7 +46,7 @@ Es zeigt mir, was für eine enorme Belastung Probleme werden können, wenn ich m
 
 Ich möchte mich davon nicht mehr beeinflussen lassen und Probleme direkt angehen, wenn sie entstehen. Wenn ich selbst keine Lösung finde, möchte ich andere um Hilfe bitten. Es bringt nichts sie in mich hinein zu fressen, dort vor sich hin wachsen zu lassen und unbewusst mein Leben kontrollieren.
 
-In der REgel ist es auch einfach Probleme direkt zu lösen, wenn sie entstehen, bevor sie zu weiteren Schwierigkeiten führen können.
+In der Regel ist es auch einfacher Probleme direkt zu lösen, wenn sie entstehen, bevor sie zu weiteren Schwierigkeiten führen können.
 
 Jetzt wo ich meine Strategie zur Problemvermeidung erkannt habe, kann ich sie hoffentlich durch eine bessere Strategie ersetzen. Ich möchte mich den Problemen stellen und Verantwortung übernehmen.
 
@@ -54,7 +54,7 @@ Was mir sehr hilft ist über meine Gefühle nachzudenken und sie aufzuschreiben.
 
 Wenn ich herausgefunden habe was das echte Problem ist, kann ich mich damit befassen und eine Lösung erarbeiten.
 
-Das ist einer der Gründe, warum es mir so wichtig ist, mir mehr Zeit zum Nachdenken zu nehmen. Ich lege mich dafür einfach auf dass Sofa und gucke mich im Zimmer um. Dabei werden wir solche Dinge klar und ich bemerke es früher. Es hilft auch darüber zu schreiben.
+Das ist einer der Gründe, warum es mir so wichtig ist, mir mehr Zeit zum Nachdenken zu nehmen. Ich lege mich dafür einfach auf das Sofa und gucke mich im Zimmer um. Dabei werden wir solche Dinge klar und ich bemerke es früher. Es hilft auch darüber zu schreiben.
 
 Ich habe das Gefühl mich sehr intensiv mit meinem Leben zu befassen und viel über solche Dinge nachzudenken. Ich frage mich, ob andere Menschen ihre Probleme immer direkt angehen, oder ob sie besser darin sind sie zu verdrängen. 
 
