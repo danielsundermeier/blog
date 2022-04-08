@@ -35,7 +35,7 @@ Ich würde so auch immer weiter lernen und meine Strukturen, Gewohnheiten und Pl
 
 Ich möchte nicht der Guru sein, der mit seiner Weisheit um sich wirft, ich möchte mit anderen Probleme lösen und gemeinsam Lösungen finden. Wir tauschen Erfahrungen aus, was für wir ausprobiert haben, wie es funktioniert hat und was wir gelernt haben.
 
-Ich würde gerne ein Arsenal an guten GEwohnheiten und Lösungen für alle möglichen Probleme aufbauen.
+Ich würde gerne ein Arsenal an guten Gewohnheiten und Lösungen für alle möglichen Probleme aufbauen.
 
 Ich kann gemeinsam mit anderen der Persönlichkeitsentwicklung arbeiten. Wichtig dabei ist, dass sie Spaß daran haben sollten. Es funktioniert nicht andere zu „zwingen“ oder zu überreden. Sie müssen selbst Lust darauf bekommen. 
 
