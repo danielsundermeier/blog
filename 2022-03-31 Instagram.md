@@ -35,21 +35,21 @@ Ich möchte viele Menschen aus allen Bereichen kennenlernen, um sich auszutausch
 Ich bin auf der Suche nach
 
 - Trainingspartner
-    ○ Fitnessstudio
-    ○ Laufen
-    ○ Etc.
+    + Fitnessstudio
+    + Laufen
+    + Etc.
 - Programmierer
-    ○ Meine Projekte (LifeOS, Rechnungspilot, Serienguide)
-    ○ Haus Automation (Homeassistant, ESPHome)
+    + Meine Projekte (LifeOS, Rechnungspilot, Serienguide)
+    + Haus Automation (Homeassistant, ESPHome)
 - Gärtner
-    ○ Permakultur
-    ○ Waldgarten 
-    ○ Regenerative Landwirtschaft
+    + Permakultur
+    + Waldgarten 
+    + Regenerative Landwirtschaft
 - Diskussionspartner
-    ○ Ideen
-    ○ Leben
-    ○ Zukunft
-    ○ (Blog, Wissenssammlung)
+    + Ideen
+    + Leben
+    + Zukunft
+    + (Blog, Wissenssammlung)
 - Persönlichkeitsentwicklung
 - Masterplan umsetzen 
 - (Mitbewohner, Ort der Persönlichkeitsentwicklung)
