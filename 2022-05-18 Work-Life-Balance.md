@@ -6,7 +6,7 @@ Ich möchte meine Arbeit in mein Leben integrieren und es nicht als getrennten B
 
 Mein Motto ist:
 
-    Ø "Build a life you don't need a vacation from"
+> "Build a life you don't need a vacation from"
 
 Das bedeutet ich möchte jeden Tag sinnvoll verbringen und meinen Zielen näher kommen. Die Arbeit gehört genauso dazu, wie das Training, das Schreiben oder meine Freizeit.
 
