@@ -8,7 +8,7 @@ Wir brauchen immer mehr, um die gleiche Zufriedenheit zu erreichen. Es gibt kein
 
 Wir leben besser als die meisten Könige vor hundert Jahren und es geht uns immer besser, trotzdem sind viele nicht glücklich.
 
-Wir haben uns an die Wunder um uns herum gewöhnt und sie sind normale geworden. Wir erwarten sie jetzt.
+Wir haben uns an die Wunder um uns herum gewöhnt und sie sind normal geworden. Wir erwarten sie jetzt.
 
 Ich glaube Zufriedenheit ist kein eigenes Gefühl, dass wir empfinden können, sondern es ist die Abwesenheit von negativen Gefühlen wie Schmerz und Anstrengung.
 
