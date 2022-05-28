@@ -40,6 +40,4 @@ Die Verwaltung erfolgt über die Software des Unternehmens.
     + Haus isolieren
     + Monatliche Raten durch Einsparung zurückzahlen
 
-[Zur Übersicht](./masterplan.md)
-
 

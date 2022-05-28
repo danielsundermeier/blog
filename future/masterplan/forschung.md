@@ -24,5 +24,3 @@ Wenn jemand die Produkte verkaufen möchte ist eine Lizenzgebühr fällig. So ka
 ## Links
 
 - [Fast Funding for COVID-19 Science](https://fastgrants.org/)
-
-[Zur Übersicht](./masterplan.md)

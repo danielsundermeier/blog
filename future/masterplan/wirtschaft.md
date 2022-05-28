@@ -49,5 +49,3 @@ Ein Teil der Gewinne kann als Grundeinkommen ausgeschüttet werden, wenn der Aus
 
 - Vorbild Norwegen
 - Grundeinkommen durch Dividende aus Staatsfond durch Verkauf von Öl
-
-[Zur Übersicht](./masterplan.md)

@@ -32,5 +32,3 @@ Die Landwirte schließen sich ebenfalls zusammen, um alle Produkte für eine kom
 Die Lebensmittelversorgung wird im Abo oder als CSA Modell finanziert. So entsteht ein Gefühl von Überfluss ("Flatrate").
 
 [So könnte ich mir den Start von Landwirtschaft & Wohnen vostellen](../gesellschaft/start.md)
-
-[Zur Übersicht](./masterplan.md)

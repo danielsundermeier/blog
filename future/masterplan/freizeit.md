@@ -43,5 +43,3 @@ Die benötigte Ausrüstung steht an den entsprechenden Orten zur Verfügung.
 - Restaurants
 - Kinos
 - ...
-
-[Zur Übersicht](./masterplan.md)

@@ -131,5 +131,3 @@ Verbesserungen planen und verwalten
 - Öffentlicher Nahverkehr
 - Müllabführ
 - Probleme melden
-
-[Zur Übersicht](./masterplan.md)
