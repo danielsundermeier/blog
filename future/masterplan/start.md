@@ -10,7 +10,7 @@ Zu diesem Zweck möchte ich ein Unternehmen gründen. Dieses Unternehmen wird de
 
 Das Unternehmen soll aber nicht nur den Zweck haben Geld zu verdienen sondern einen echten Wert liefern und zur Verbesserung der Leben, der Nutzer führen!
 
-[Hier](../business/starten.md) sind meine Ideen zum Starten eines Unternehmens.
+[Hier](https://notes.d15r.de/business/starten) sind meine Ideen zum Starten eines Unternehmens.
 
 Es werden drei Software Produkte vermarktet. Alle drei dienen der Verwaltung von einem Bereich und sollen die nervigen und wiederkehrenden Aufgaben vereinfachen, eliminieren oder automatisieren.
 
@@ -30,7 +30,7 @@ Es sollen immer mehr Aufgaben automatisiert werden, damit sich die Menschen um d
 
 Werkzeuge die das persönliche Leben organisieren und leichter machen.
 
-Soll sich zu dem [Gesundheitzentrum](./gesundheit.md) entwickeln.
+Soll sich zu dem [Gesundheitzentrum](https://notes.d15r.de/gesundheit) entwickeln.
 
 ### CRM
 
@@ -77,7 +77,7 @@ Soll sich zu dem [Gesundheitzentrum](./gesundheit.md) entwickeln.
 
 Verwaltung aller Abläufe im Unternehmen und Genossenschaften.
 
-Soll sich zu dem [Gründerzentrum](./wirtschaft.md) entwickeln.
+Soll sich zu dem [Gründerzentrum](https://notes.d15r.de/wirtschaft) entwickeln.
 
 ### Stammdaten
 
