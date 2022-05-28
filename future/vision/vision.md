@@ -2,8 +2,8 @@
 
 Ich glaube ein gutes Ziel für die Menschheit ist das Leben ins Universum zu bringen und alles zu erforschen.
 
-![](https://www.thevenusproject.com/wp-content/uploads/2019/07/center_for_resource_management_aerial.jpg)  
-[The Venus Project](https://www.thevenusproject.com/)
+![](https://images.squarespace-cdn.com/content/v1/53e27964e4b023248c0899f7/1588132990069-ZQWBPQ9NKGQ9PLFZPK9Y/final+artwork+2020-03-30+res.jpg?format=2500w)  
+[Utopia 2048](https://linozeddies.de/utopia2048)
 
 - Post Scarcity (Alle haben genug)
 - Fokus auf Wissen (Forschung, Entwicklung, Entdeckung, Experimente)
@@ -31,7 +31,7 @@ Ich habe meine Vision in mehrere Phasen eingeteilt. Zu jeder Phase habe ich aufg
 
 Es sind keine abgeschlossenen Phasen, sondern sie existieren parallel. Es gibt fließende Übergänge von einer zur anderen.
 
-Hier ist mein [Masterplan](../masterplan/masterplan.md), um anzufangen.
+Hier ist mein [Masterplan](/future/masterplan), um anzufangen.
 
 ### Phasen
 
