@@ -34,7 +34,7 @@
 - Aufbau des Depots staatlich gefördert
 - Genug Einnahmen durch das Depot, um über der Armutsgrenze zu leben
 - Nicht mehr als 3-4% / Jahr entnehmen, damit es immer weiter wächst
-- [Arbeit](../gesellschaft/politik.md#arbeit)
+- [Arbeit](https://notes.d15r.de/gesellschaft/politik#arbeit)
 
 ## Gesundheit
 
