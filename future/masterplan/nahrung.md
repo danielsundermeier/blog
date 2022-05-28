@@ -2,7 +2,7 @@
 
 Ziel: Versorgung mit lokaler, saisonaler und gesunder Nahrung, die regnererativ produziert wurde.
 
-Die [Landwirtschaft](../landwirtschaft/landwirtschaft.md) soll in die Gemeinschaft integriert werden und ihre Produkte direkt an die Anwohner verkaufen.
+Die [Landwirtschaft](https://notes.d15r.de/landwirtschaft/landwirtschaft) soll in die Gemeinschaft integriert werden und ihre Produkte direkt an die Anwohner verkaufen.
 
 ![](https://oceanix.org/wp-content/uploads/2019/04/oceanix-p2.jpg)  
 [Oceanix](https://oceanix.org/)
@@ -23,7 +23,7 @@ Es sollen auch öffentliche Gärten angelegt und Obstbäume gepflanzt werden. Di
 
 Weiter außerhalb findet der Ackerbau statt. Auf den Feldern werden gleichzeitig Bäume für die Holzgewinnung angebaut.
 
-Es soll einen Lieferdienst geben, der alle mit allen Mahlzeiten des Tages versorgt. Der Ernährungsplan wird zusammen mit dem [Gesundheitszentrum](./gesundheit.md) erarbeitet.
+Es soll einen Lieferdienst geben, der alle mit allen Mahlzeiten des Tages versorgt. Der Ernährungsplan wird zusammen mit dem [Gesundheitszentrum](https://notes.d15r.de/gesundheit) erarbeitet.
 
 Zusätzlich gibt es Restaurants und einen Hofladen.
 
@@ -31,4 +31,4 @@ Die Landwirte schließen sich ebenfalls zusammen, um alle Produkte für eine kom
 
 Die Lebensmittelversorgung wird im Abo oder als CSA Modell finanziert. So entsteht ein Gefühl von Überfluss ("Flatrate").
 
-[So könnte ich mir den Start von Landwirtschaft & Wohnen vostellen](../gesellschaft/start.md)
+[So könnte ich mir den Start von Landwirtschaft & Wohnen vostellen](https://notes.d15r.de/gesellschaft/start)
