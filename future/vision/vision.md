@@ -35,13 +35,13 @@ Hier ist mein [Masterplan](../masterplan/masterplan.md), um anzufangen.
 
 ### Phasen
 
-- [Heute](vision/heute.md)
-- [Post Poverty](vision/post-poverty.md)
-- [Post Scarcity](vision/post-scarcity.md)
-- [Orbit](vision/orbit.md)
-- [Mond](vision/mond.md)
-- [Inneres Sonnensystem](vision/inneres-sonnensystem.md)
-- [Äußeres Sonnensystem](vision/aeußeres-sonnensystem.md)
+- [Heute](/future/vision/heute)
+- [Post Poverty](/future/vision/post-poverty)
+- [Post Scarcity](/future/vision/post-scarcity)
+- [Orbit](/future/vision/orbit)
+- [Mond](/future/vision/mond)
+- [Inneres Sonnensystem](/future/vision/inneres-sonnensystem)
+- [Äußeres Sonnensystem](/future/vision/aeußeres-sonnensystem)
 
 ## Lebensstil
 
