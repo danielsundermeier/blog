@@ -1,6 +1,6 @@
 # Heute
 
-## [Bildung](../gesellschaft/bildung.md)
+## [Bildung](https://notes.d15r.de/gesellschaft/bildung.md)
 
 - Kampagne für Fundament: 
     + Gesundheit
@@ -16,7 +16,7 @@
     + Makerspaces
     + Repair-Cafes
 
-## [Energie](../energy/energie.md)
+## [Energie](https://notes.d15r.de/energy/energie.md)
 
 - Förderung von Erneuerbaren Energien
 - P2P Energiemarkt
@@ -32,7 +32,7 @@
 - Private Investments fördern
     + finanzielle Unabhängigkeit als Ziel
     
-## [Landwirtschaft](../landwirtschaft/umsetzung.md)
+## [Landwirtschaft](https://notes.d15r.de/landwirtschaft/umsetzung.md)
 
 - Rasen zu (Wald-) Gärten mit Tieren
 - Öffentliche, gemeinschaftliche und private Gärten
