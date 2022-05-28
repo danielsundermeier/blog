@@ -31,14 +31,14 @@ Aktuell wird viel davon verschwendet:
 
 > "The Best Minds of My Generation Are Thinking About How To Make People Click Ads" - ??
 
-[So möchte ich es umsetzen](./start.md)
+[So möchte ich es umsetzen](/future/masterplan/start)
 
 ## Bereiche
 
-- [Energie](./energie.md)
-- [Forschung](./forschung.md)
-- [Freizeit](./freizeit.md)
-- [Gesundheit](./gesundheit.md)
-- [Nahrung](./nahrung.md)
-- [Wirtschaft](./wirtschaft.md)
-- [Wohnen](./wohnen.md)
+- [Energie](/future/masterplan/energie)
+- [Forschung](/future/masterplan/forschung)
+- [Freizeit](/future/masterplan/freizeit)
+- [Gesundheit](/future/masterplan/gesundheit)
+- [Nahrung](/future/masterplan/nahrung)
+- [Wirtschaft](/future/masterplan/wirtschaft)
+- [Wohnen](/future/masterplan/wohnen)
