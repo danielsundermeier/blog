@@ -76,6 +76,10 @@ Früher war es normal mit mehreren Generationen unter einem Dach zu leben. Wir h
 
 Mit den Wohngemeinschaften können wir wieder dorthin kommen.
 
+Anstatt aber mit der eigenen Familie zusammenzuleben, können wir uns unsere Mitbewohner und Nachbarn auf diese Weise aussuchen.
+
+Die Idee ist, dass die Gemeinschaft ein großes Grundstück kauft und es gemeinsam entwickelt. Jeder Haus soll dabei den Bewohnern gehören und das umliegende Land allen.
+
 Es muss nicht mehr jeder jeden Tag für sich kochen. Es gibt immer jemanden, der auf die Kinder aufpassen kann. Wir teilen uns die Gartenarbeit und die sonstigen Arbeiten.
 
 Wir sind nie alleine und können gemeinsam größere Projekte umsetzen.
