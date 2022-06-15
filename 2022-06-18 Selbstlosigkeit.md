@@ -2,7 +2,7 @@
 
 Je mehr Menschen ich helfe, desto besser ist es für mich selbst.
 
-> "Selbst wenn jeder nur seinem Eigennutz nachgeht, geschieht das am Ende zum Wohle aller."
+> Selbst wenn jeder nur seinem Eigennutz nachgeht, geschieht das am Ende zum Wohle aller.
 
 Am einfachsten geht das indem ich alles kostenlos weggebe. Auf diese Weise verdiene ich aber nichts. Ich brauche aber Geld, um mein Leben zu finanzieren.
 
