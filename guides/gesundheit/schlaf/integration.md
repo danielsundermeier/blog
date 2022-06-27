@@ -4,7 +4,7 @@ Diese Punkte dienen als Basis mit der Du starten kannst. Sie sollen die Integrat
 
 Es ist einfacher etwas bestehendes anzupassen, als vor einem leeren Blatt zu sitzen.
 
-## Schlafenszeit festlegen
+## Schlafenszeit
 
 [ ] Schlafenszeit festlegen
 
@@ -15,7 +15,7 @@ Bettzeit:               ____________________
 
 [ ] Wecker zum Einschlafen stellen
 
-## Sperrzeiten festlegen
+## Sperrzeiten
 
 [ ] Sperrzeiten festlegen
 
