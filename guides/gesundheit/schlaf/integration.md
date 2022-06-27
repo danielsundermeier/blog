@@ -17,7 +17,7 @@ Bettzeit:               ____________________
 
 ## Sperrzeiten festlegen
 
-[ ] Sperrzeiten festelegen
+[ ] Sperrzeiten festlegen
 
 Monitore:               ____________________  
 Koffein:                ____________________  
