@@ -25,6 +25,7 @@ Dinge wie:
 - Anstand 
 - Aufmerksamkeit
 - Genügsamkeit
+- Großzügigkeit
 - Lebensphilosophie
 - Sinn
 
