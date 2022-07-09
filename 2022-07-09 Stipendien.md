@@ -34,7 +34,7 @@ Wenn wir das Geld in einen Welt ETF investieren, der 4% Dividenden auszahlt, kö
 
 So können wir es unendlich lange laufen lassen und immer wieder neu vergeben. Der Wert im Depot würde auch immer weiter steigern. Wir brauchen aber einen Puffer, wenn die Kurse in den Keller gehen.
 
-Außerdem können so auch andere Geld spenden und die Sache unterstützen. Weil es gemeinnützig ist gibt es dafür auch eine Spendenquittung. Zusätzlich profitieren sie von einer Verbesserung der Umgebung.
+Außerdem können so auch andere Geld spenden und die Sache unterstützen. Das ist sehr wichtig, denn ich kann es nicht alleine umsetzten. Weil es gemeinnützig ist gibt es dafür auch eine Spendenquittung. Zusätzlich profitieren sie von einer Verbesserung der Umgebung.
 
 Ich habe an drei Jahre gedacht, weil ein Bachelor Studium auch so lange dauert. Außerdem sagt man, dass man erfolgreich wird, wenn man zwei Jahre jeden Tag etwas für eine Sache tut. Dann ist noch ein Puffer von einem Jahr dabei.
 
@@ -84,6 +84,10 @@ Wenn alle Unternehmen etwas spenden könnte sich das System von selbst erhalten 
 
 Es muss nur einer den Stein ins rollen bringen und anfangen.
 
+Es ist ein weiterer Weg meinen Masterplan umzusetzen.
+
 Ich glaube auf diese Weise kann das Geld sehr sinnvoll genutzt werden. Ich stelle es mir auch gerade sehr befriedigend vor es so zu nutzen.
 
 Die Idee gefällt mir gerade sehr gut und Ich glaube wir könnten damit sehr viel Gutes tun!
+
+Ich frage mich, wie ich anfangen und es ausprobieren kann. Was kann der erste Schritt sein?
