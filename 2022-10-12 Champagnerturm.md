@@ -2,7 +2,7 @@
 
 Ich hatte auf einmal das Bild eines Champagnerturms vor mir, als ich über die Zukunft nachgedacht habe.
 
-Wir füllen unser eigene Glas so sehr, das es überfließt. Der Überfluss hilft dann die Becher der Personen in unserem Umfeld aufzufüllen.
+Wir füllen unser eigenes Glas so sehr, bis es überfließt. Der Überfluss hilft dann die Gläser der Personen in unserem Umfeld aufzufüllen.
 
 Es ist ein bisschen so wie der Ratschlag im Flugzeug zuerst die eigenen Maske aufzusetzen, wenn etwas schief läuft. Nur so können wir anderen helfen. Wenn wir ohnmächtig werden sind wir nicht nur keine Hilfe, sondern eine Last für die anderen.
 
