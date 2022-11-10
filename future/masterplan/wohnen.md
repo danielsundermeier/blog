@@ -5,8 +5,8 @@ Ziel: Lebenswerten, bezahlbaren Wohnraum schaffen und eine Gemeinschaft aufbauen
 Es soll schönen und bezahlbaren Wohnraum für alle geben. Es sollen mehr Mehrfamilienhäuser / Hochhäuser gebaut werden und weniger Einfamilienhäuser.
 Es soll erstrebenswerter sein in einer Wohnung zu leben anstatt im (eigenen) Haus.
 
-![](http://www.towncreektexas.com/images/uploads/community_about.jpg)  
-[Create Walkable Neighborhoods](http://smartgrowth.org/create-walkable-neighborhoods/)
+![](https://plancerda.files.wordpress.com/2010/05/urbs20i20territori.jpg)  
+[El tráfico y la comodidad en el Plan Cerdà](https://plancerda.wordpress.com/2010/05/26/el-trafico-y-la-comodidad-en-el-plan-cerda/)
 
 Wenn man möchte kann man natürlich trotzdem in einem Einfamilienhaus wohnen. Die Mehrfamilienhäuser sollen aber so viele Vorteile bieten, dass sie vorgezogen werden. Sie sollen nicht so sein wie die "Platten" im Osten, sondern mehr wie ein Luxushotel.
 
