@@ -15,7 +15,7 @@ Wenn man möchte kann man natürlich trotzdem in einem Einfamilienhaus wohnen. D
 
 Es soll viele Annehmlichkeiten, wie Gemeinschaftsbereiche, Fitnessstudios, Restaurants/Bars, Büroräume und ähnliches in den Gebäuden geben. 
 
-![](./Utopia-City-2080-by-Damian-Krzywonos-Reinventing-Society-scaled.jpg)  
+![](https://cdn.realutopien.info/q:intelligent/r:1/wp:1/w:1/u:https://realutopien.info/wp-content/uploads/2022/02/Utopia-City-2080-by-Damian-Krzywonos-Reinventing-Society-scaled.jpg)  
 [Utopia City 2080](https://realutopien.info/visuals/utopia-city-2080/)
 
 Auch Services wie Haushaltshilfen, Lieferdienste, etc.
