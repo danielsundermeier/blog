@@ -66,7 +66,7 @@ Er widerlegt in seinem Buch den Ratschlag, dass wir unserer Leidenschaft folgen 
 
 Es geht also nicht darum, eine Leidenschaft zu haben und der zu folgen, sondern wertvolle und seltene Fähigkeiten aufzubauen, es ermöglichen eine schönes Arbeitsleben zu haben.
 
-"Working right trumps finding the right work"
+> "Working right trumps finding the right work"
 
 Autonomie und ein Zweck sind wichtige Bestandteile einer erfüllenden Karriere.
 
