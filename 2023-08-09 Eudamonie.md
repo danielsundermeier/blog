@@ -1,4 +1,4 @@
-# Eudamonie
+# Eudaimonia
 
 Ich habe den Eindruck, dass viele Leute für das Wochenende oder den Urlaub leben.
 
@@ -20,7 +20,7 @@ Wir können immer mehr davon tun, was uns wichtig ist und weniger von dem, was w
 
 Wir sollten nicht für die wenigen Highlights im Jahr leben, wie den Urlaub, sondern jeden Tag etwas tun, das uns Freude bereitet.
 
-Wir können herausfinden, was uns gut tut und mehr davon machen.
+Wir können herausfinden, was uns guttut und mehr davon machen.
 
 Was machen wir, wenn wir einen wirklich guten Tag haben?
 
@@ -56,7 +56,7 @@ Wenn wir unsere Tage immer mehr so gestalten, wie wir das wollen, gefallen sie u
 
 Wir brauchen dann keine Entschädigung mehr.
 
-Wir übernehmen aktiv die Kontrolle über unser Leben und streben danach, es immer mehr nach unseren Wünschen zu gestalten.
+Wir übernehmen aktiv die Kontrolle über unser Leben und Streben danach, es immer mehr nach unseren Wünschen zu gestalten.
 
 Die Highlights und die Belohnungen kommen dann noch obendrauf.
 
@@ -70,13 +70,13 @@ Nicht so gelebt zu haben, wie wir es wirklich möchten, ist eines der Dinge, die
 
 Wir haben viel mehr Möglichkeiten, als uns bewusst ist. Wir müssen nicht zwangsläufig das tun, was alle tun.
 
-Ich glaube, wir sollten unsere Tage so gestalten, dass wir unserem Ideal und unserem Potenzial immer näher kommen.
+Ich glaube, wir sollten unsere Tage so gestalten, dass wir unserem Ideal und unserem Potenzial immer näherkommen.
 
-Im frühen Griechenland gab es das Wort Eudaimonie (= guter Geist). Es bedeutet, ein gutes und erfolgreiches Leben zu führen.
+Im frühen Griechenland gab es das Wort Eudaimonia (= guter Geist). Es bedeutet, ein gutes und erfolgreiches Leben zu führen.
 
 Es geht darum, tugendhaft zu leben und sein Bestes zu geben.
 
-> What one can be, one must be.
+> What one can be one must be.
 
 Wie erreichen es, in dem wir jeden Tag als unser bestes Selbst auftreten.
 
@@ -84,7 +84,7 @@ Die Forschung im Bereich der positiven Psychologie bestätigen das auch. Wir fü
 
 Dafür müssen wir natürlich herausfinden, was sie wirklich wollen.
 
-Das muss jeder für sich selbst herausfinden und ist wahrscheinlich die schwierigste Aufgabe überhaupt. 
+Das muss jeder für sich selbst herausfinden und ist wahrscheinlich die schwierigste Aufgabe überhaupt.
 
 In dem wir immer mehr ausprobieren, lernen wir uns selbst immer besser kennen.
 
@@ -110,13 +110,13 @@ Mit der Zeit können wir uns dann immer wieder fragen, welche Dinge wir tun kön
 
 Dabei ist es wichtig, immer nur eine zu ändern. Sonst wird es zu viel.
 
-Wir können uns regelmäßig die Frage stellen, was ist die eine Sache, die mich wirklich weiter bringen würde, wenn ich sie tun würde.
+Wir können uns regelmäßig die Frage stellen, was ist die eine Sache, die mich wirklich weiterbringen würde, wenn ich sie tun würde.
 
-Das gleiche gilt auch für negative Gewohnheiten. Was mache ich, dass du mich zurück hält?
+Das gleiche gilt auch für negative Gewohnheiten. Was mache ich, dass du mich zurückhält?
 
 Was machen wir, wenn wir uns am besten fühlen? Wir sollten immer mehr davon tun.
 
-Wichtig ist, dass wir uns selbst nicht überfordern. 
+Wichtig ist, dass wir uns selbst nicht überfordern.
 
 Wir müssen darauf achten, dass wir uns auch genug erholen.
 
@@ -132,7 +132,7 @@ Unser Unterbewusstsein arbeitet weiter an dem Problem und in der Entspannungspha
 
 Im besten Fall heißt das, dass wir etwas komplett anderes machen. Zum Beispiel spazieren gehen, einem Hobby nachgehen, schlafen, meditieren oder einfach nichts tun.
 
-Leider ist das oft nicht möglich. Ich glaube aber, dass es die Produktivität extrem steigern könnte.
+Leider ist das oft nicht möglich. Ich glaube aber, dass es die Produktivität steigern könnte.
 
 Wenn wir dreimal am Tag 90 Minuten konzentrieren, an etwas arbeiten, schaffen wir wahrscheinlich mehr, als wenn wir den ganzen Tag mit 70-80 % arbeiten.
 
@@ -142,13 +142,13 @@ Studien haben gezeigt, dass nach 4,5 Stunden das Ende erreicht ist. Selbst Profi
 
 Wir schaffen das auch nicht auf Anhieb. Wir können es aber trainieren.
 
-Wirklich fokussiert zu arbeiten ist extrem anstrengend und herausfordernd.
+Wirklich fokussiert zu arbeiten ist anstrengend und herausfordernd.
 
 E-Mails checken und Fernsehen gucken sind keine guten Möglichkeiten sich zu erholen. Das Gehirn ist trotzdem angestrengt und auf eine Sache fokussiert.
 
 Das Ziel ist zwischen dem fokussierten und diffusen Denkmodus unseres Verstandes zu wechseln.
 
-Ich merke wieder, dass ich um das eigentliche Thema herum rede.
+Ich merke wieder, dass ich um das eigentliche Thema herumrede.
 
 Mir fehlen die Worte, um auszudrücken, was ich wirklich sagen möchte.
 
@@ -170,11 +170,11 @@ Das Ziel war nicht mehr, etwas so schnell wie möglich zu erledigen und das hat 
 
 Ich bemerke auf diese Weise noch Ungereimtheiten und mir fallen bessere Lösungen ein.
 
-Ich fühle mich zufrieden mit dem, was ich gemacht habe. Es funktioniert nicht einfach nur.
+Ich fühle mich zufrieden mit dem, was ich gemacht habe. Es funktioniert nicht nur.
 
 Außerdem plane ich meine Tage besser.
 
-Ich glaube, das es tatsächlich etwas gebracht hat und ich habe mehr Spaß.
+Ich glaube, dass es tatsächlich etwas gebracht hat, und ich habe mehr Spaß.
 
 Ich würde es gerne auf die Spitze treiben und wirklich nur noch drei konzentrierte Arbeitsphasen und danach Zeit für Erholung und Bewegung einplanen.
 
@@ -190,7 +190,7 @@ Vielleicht ist auch eine gute Portion Wunschdenken mit dabei.
 
 Mir gefällt die Idee, mein Tag so zu strukturieren sehr gut.
 
-In meiner Mittagspause zum Training zu fahren, tut mir schon sehr gut. So bin ich für die zweite Hälfte des Arbeitstages wieder fit. Die aktive Pause macht wirklich einen Unterschied.
+In meiner Mittagspause zum Training zu fahren, tut mir schon sehr gut. So bin ich für die zweite Hälfte des Arbeitstages wieder fit. Die aktive Pause macht einen Unterschied.
 
 Dazu habe ich immer noch die Idee, mich abends mit anderen Menschen zu treffen, die sich auch für die Persönlichkeitsentwicklung interessieren, und unsere Ziele, Ideen und Herausforderungen zu diskutieren.
 
@@ -200,7 +200,7 @@ Wir motivieren, inspirieren und unterstützen uns gegenseitig.
 
 Das ist im Prinzip die Grundidee des Ortes der Persönlichkeitsentwicklung. Gemeinsam mit anderen das optimale Leben aufzubauen.
 
-Ein Accelerator für das Leben.
+Ein Akzelerator für das Leben.
 
 Was mache ich, wenn es mir am besten geht?
 
@@ -210,11 +210,11 @@ Je schlechter ich mich fühle, umso wichtiger sind die Abläufe und Routinen, um
 
 Ich versuche so meine Grundstimmung anzuheben. Die Hochs sind besser und die Tiefs nicht mehr ganz so schlimm. Dadurch wird mein Leben insgesamt angenehmer.
 
-Ich bin auf der Suche nach Aktivitäten, die Energie freisetzen, nachdenen ich mich besser fühle als vorher.
+Ich bin auf der Suche nach Aktivitäten, die Energie freisetzen, nach denen ich mich besser fühle als vorher.
 
 Das Gegenteil möchte ich immer weiter vermeiden. Aktivitäten, die mir Energie rauben und nach denen ich mich erledigt und träge fühle.
 
-Um das zu erreichen gibt es das Wort Arete. Es bedeutet so viel wie jeden Tag als die beste Version von sich selbst aufzutreten.
+Um das zu erreichen, gibt es das Wort Arete. Es bedeutet so viel wie jeden Tag als die beste Version von sich selbst aufzutreten.
 
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 
@@ -222,7 +222,7 @@ Es soll aber keine getriebene Form meines besten Ichs sein. Ich möchte die Tage
 
 Ich halte nichts von der "Hustle Culture". Ich glaube nicht, dass das der richtige Weg ist.
 
-Es geht nicht darum um jeden Preis immer mehr zu wollen, sondern mich zu fordern und zu wachsen, aber auch zu wissen wann es genug ist und mir genügend Raum zur Erholung und zum Genießen einzuräumen.
+Es geht nicht darum um jeden Preis immer mehr zu wollen, sondern mich zu fordern und zu wachsen, aber auch zu wissen, wann es genug ist und mir genügend Raum zur Erholung und zum Genießen einzuräumen.
 
 Meine Handlungen sollen dem Guten Leben dienen.
 

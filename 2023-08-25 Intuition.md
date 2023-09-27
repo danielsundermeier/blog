@@ -1,6 +1,6 @@
 # Intuition
 
-Meine Strukturen und Pläne haben eigentlich dem Zweck gedient, ein Gefühl dafür zu bekommen, was ich tun muss, um eine Ziele zu erreichen.
+Meine Strukturen und Pläne haben eigentlich dem Zweck gedient, ein Gefühl dafür zu bekommen, was ich tun muss, um meine Ziele zu erreichen.
 
 Ich wollte Erfahrung sammeln und mir eine Sicherheit aufbauen.
 
@@ -8,7 +8,7 @@ Ich wollte herausfinden, wie gewisse Dinge, wie die Ernährung oder der Muskelau
 
 Ich bin vorgegangen wie ein Wissenschaftler und habe mich selbst als Testobjekt benutzt. Ich habe immer nur Kleinigkeiten verändert und versucht alles andere konstant zu halten, um den Einfluss von einer Sache herauszufinden.
 
-Das ist mir auch ziemlich gut gelungen. Solange alles gut ging haben die Pläne auch funktioniert.
+Das ist mir auch gut gelungen. Solange alles gut ging, haben die Pläne auch funktioniert.
 
 Sie waren aber nicht flexibel genug, um auch Schwankungen und Ausnahmen auszuhalten. Sobald etwas aus der Bahn gelaufen ist, haben sie nicht mehr funktioniert und ich habe mich hilflos gefühlt.
 
@@ -20,7 +20,7 @@ Ich habe mich aber nie sicher genug gefühlt, um die Kontrolle abzugeben und los
 
 Ich hatte immer wieder Rückschläge und Enttäuschungen, sobald ich die Kontrolle verloren hatte.
 
-Ich möchte mir sicher sein, so viel zu essen, wie ich auch brauche. Ich habe Angst es zu übertreiben und mir alles zunichte zu machen.
+Ich möchte mir sicher sein, so viel zu essen, wie ich auch brauche. Ich habe Angst es zu übertreiben und mir alles zunichtezumachen.
 
 Ich möchte das Training machen, um meinen ganzen Körper zu trainieren und mich nicht nur auf meine Lieblingsübung zu fixieren.
 
@@ -28,7 +28,7 @@ Ich möchte die Dinge schaffen, die ich mir vornehme.
 
 Ich habe mir irgendwann eingeredet, dass ich die Kontrolle brauche, um das zu schaffen.
 
-Ich habe das Ziel auf meinen Körper zu hören, vergessen. Es ging nur noch darum, die Pläne immer weiter zu optimieren.
+Ich habe das Ziel, auf meinen Körper zu hören, vergessen. Es ging nur noch darum, die Pläne immer weiter zu optimieren.
 
 Ich wollte immer mehr und ich habe gelernt, dass es mit dem Plan und der Kontrolle funktioniert. Ich habe mich dann darauf festgelegt und keine Alternative mehr gesehen.
 
@@ -36,9 +36,9 @@ Meine Gefühle waren dabei egal. Deshalb ist es aber immer wieder zu den Rücksc
 
 Das hat nicht gerade dabei geholfen Vertrauen in meine Intuition aufzubauen.
 
-Ich möchte versuchen, mich immer sicherer zu fühlen. 
+Ich möchte versuchen, mich immer sicherer zu fühlen.
 
-Das gelingt mir, indem ich mich immer besser kennenlerne. 
+Das gelingt mir, indem ich mich immer besser kennenlerne.
 
 Wenn ich weiß, dass ich auch etwas essen möchte, um mich besser zu fühlen und nicht nur, weil ich wirklich hungrig bin.
 
@@ -52,7 +52,7 @@ Es fällt mir dann auch leichter gegenzusteuern.
 
 Wenn ich meinen Gefühlen und Emotionen hilflos ausgeliefert bin, bemerke ich es erst, wenn es zu spät ist.
 
-Wenn ich weiß wie ein System funktioniert und wie ich es wieder zum Laufen bekomme, gib mir das Sicherheit.
+Wenn ich weiß, wie ein System funktioniert und wie ich es wieder zum Laufen bekomme, gib es mir Sicherheit.
 
 Ich habe dann Spielraum für Fehler und Experimente.
 
@@ -62,13 +62,13 @@ Ich kann mich dann darauf vorbereiten und Vorkehrungen dafür treffen.
 
 Ich kann einen Rettungsplan erstellen.
 
-Ich kann dann spüren, wenn etwas schief läuft und ich etwas tun möchte, dass ich später bereuen werde. So muss es gar nicht erst dazu kommen.
+Ich kann dann spüren, wenn etwas schiefläuft und ich etwas tun möchte, dass ich später bereuen werde. So muss es gar nicht erst dazu kommen.
 
 Das gelingt mir in dem ich immer mehr ausprobiere und beobachte, was passiert.
 
 Je eher ich merke, dass etwas nicht stimmt, umso einfacher ist es etwas zu ändern.
 
-Wenn ich weiß, was mir gut tut, kann ich immer wieder darauf zurückgreifen.
+Wenn ich weiß, was mir guttut, kann ich immer wieder darauf zurückgreifen.
 
 Wenn ich weiß, wann ich zu Rückschlägen neige, kann ich mich darauf einstellen und es verhindern.
 

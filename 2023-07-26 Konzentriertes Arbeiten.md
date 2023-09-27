@@ -18,7 +18,7 @@ Er wiederholt auch immer wieder vorhergehende Regeln. Sein Lehrauftrag scheint d
 
 Generell gefällt mir der Aufbau der Bücher sehr gut.
 
-Zuerst wird das Problem beschrieben und dann nach und nach anhand von Beispielen erläutert, wie wir es lösen können. Er beschreibt wie er zu dem Ergebnis gekommen ist.
+Zuerst wird das Problem beschrieben und dann nach und nach anhand von Beispielen erläutert, wie wir es lösen können. Er beschreibt, wie er zu dem Ergebnis gekommen ist.
 
 Es fühlt sich nicht wie ein Self-Help Buch, sondern wirklich eher wie ein Ratgeber oder fast schon wie ein Lehrbuch an.
 
@@ -34,7 +34,7 @@ Außerdem erreichen wir so immer mehr. Wir verbessern unsere Fähigkeiten, nutze
 
 Es gefällt mir sehr gut, wie strukturiert er an die Herausforderung des Lebens herangeht. Erscheint immer ein Buch zu schreiben, wenn er vor einem Problem steht.
 
-Er erarbeitet sich so eine Lösung und hat gleichzeitig ein Produkt kreiert mit dem er anderen helfen kann.
+Er erarbeitet sich so eine Lösung und hat gleichzeitig ein Produkt kreiert, mit dem er anderen helfen kann.
 
 Dadurch, dass er ein Buch darauf macht, muss er sich sehr intensiv damit beschäftigen und es auch für andere verständlich machen.
 
@@ -48,7 +48,7 @@ In seinem Podcast hat er über die finanzielle Unabhängigkeit gesprochen.
 
 Was ihm daran gefällt, ist, dass die Bewegung den Menschen aufzeigt, dass es mehr Möglichkeiten gibt, als ihn vielleicht bewusst ist, ihr berufliches Leben zu gestalten.
 
-Er sieht die Menschen, die wirklich finanziell unabhängig sind, als extrem Beispiele und nicht als Normalzustand.
+Er sieht die Menschen, die wirklich finanziell unabhängig sind, als Extrembeispiele und nicht als Normalzustand.
 
 Sie zeigen, was möglich ist. Nicht, wonach wir alle streben sollten.
 
@@ -62,11 +62,11 @@ Und für jeden ist es etwas anderes, das sich auch noch mit der Zeit verändert.
 
 Warum sollte ich alles für die finanzielle Unabhängigkeit geben, wenn ich mir eine Karriere gestalten kann, die mir wirklich gefällt und ich gar nicht in Rente gehen möchte?
 
-Er widerlegt in seinem Buch den Ratschlag, dass wir unserer Leidenschaft folgen sollten. In seinen Augen sind sehr gute Jobs, etwas seltenes und wertvolles. Wir brauchen also auch etwas wertvolles und seltenes, um sie zu bekommen.
+Er widerlegt in seinem Buch den Ratschlag, dass wir unserer Leidenschaft folgen sollten. In seinen Augen sind sehr gute Jobs, etwas Seltenes und Wertvolles. Wir brauchen also auch etwas Wertvolles und Seltenes, um sie zu bekommen.
 
-Es geht also nicht darum, eine Leidenschaft zu haben und der zu folgen, sondern wertvolle und seltene Fähigkeiten aufzubauen, es ermöglichen eine schönes Arbeitsleben zu haben.
+Es geht also nicht darum, eine Leidenschaft zu haben und der zu folgen, sondern wertvolle und seltene Fähigkeiten aufzubauen, es ermöglichen ein schönes Arbeitsleben zu haben.
 
-> "Working right trumps finding the right work"
+> "Working right trumps finding the right work."
 
 Autonomie und ein Zweck sind wichtige Bestandteile einer erfüllenden Karriere.
 
@@ -74,7 +74,7 @@ Wir sollten nicht damit rechnen, dass wir am Anfang gleich unseren Traumjob find
 
 Wir müssen uns erst beweisen und auch für uns selbst herausfinden, was uns überhaupt gefällt, und können uns dann unseren Traumjob selbst erschaffen.
 
-Das gelingt uns, indem wir uns auf die Hauptaufgaben konzentrieren und fokussiert daran arbeiten. 
+Das gelingt uns, indem wir uns auf die Hauptaufgaben konzentrieren und fokussiert daran arbeiten.
 
 Wir sollten uns nicht von weniger wichtigen Tätigkeiten ablenken lassen.
 
@@ -84,9 +84,9 @@ Je mehr wir ausprobieren, umso mehr Schnittstellen ergeben sich und je höher di
 
 Wir können so immer mehr Karrierekapital (=wertvolle Fähigkeiten und Erfahrungen) aufbauen und die dann in bessere Arbeitsbedingungen eintauschen.
 
-Um eine Mission für unsere Karriere zu finden brauchen wir zuerst eine riesige Menge an Expertise und Erfahrung. Daraus kann sich dann eine Mission entwickeln.
+Um eine Mission für unsere Karriere zu finden, brauchen wir zuerst eine riesige Menge an Expertise und Erfahrung. Daraus kann sich dann eine Mission entwickeln.
 
-Wir finden sie nicht zufällig durch eine Inspiration. 
+Wir finden sie nicht zufällig durch eine Inspiration.
 
 Seine Strategie für seine Forschung gefällt mir sehr gut.
 
@@ -94,9 +94,9 @@ Sie beruht auf drei Baustein. Zum einen hat er seine Mission. Er möchte Fortsch
 
 Die Grundlage bildet seine "Research Bible". Er fasst dort aktuelle Forschung und Konzepte zusammen und erklärt sie sich selbst.
 
-Daraus generiert er neue Ideen für kleine Experimente die er ausprobieren kann.
+Daraus generiert er neue Ideen für kleine Experimente, die er ausprobieren kann.
 
-Er nimmt sich ungefähr einen Monat für jedes Experiment Zeit. Wenn es nichts wird, ist das okay, weil die Investitionen nicht so groß war. Über die Zeit produziert er so aber eine Menge Material.
+Er nimmt sich ungefähr einen Monat für jedes Experiment Zeit. Wenn es nichts wird, ist das okay, weil die Investitionen nicht so groß waren. Über die Zeit produziert er so aber eine Menge Material.
 
 Er verbessert so auch immer weiter seine eigenen Fähigkeiten. Er macht sich immer wertvoller für seinen Arbeitgeber.
 

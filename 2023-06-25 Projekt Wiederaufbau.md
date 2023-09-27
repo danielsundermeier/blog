@@ -8,7 +8,7 @@ Ich habe gedacht, dass ich perfekt sein muss, um glücklich zu sein.
 
 Ich bin davon ausgegangen, dass ich nur liebenswert bin, wenn ich reich, erfolgreich, gesund, charmant, fit bin und dazu noch ein außergewöhnliches Leben führe.
 
-Außerdem dacht ich, dass es einen Punkt gibt ab dem ich ohne weitere Probleme bis zum Ende meiner Tage glücklich und zufrieden leben kann.
+Außerdem dachte ich, dass es einen Punkt gibt, ab dem ich ohne weitere Probleme bis zum Ende meiner Tage glücklich und zufrieden leben kann.
 
 Ich habe mich also auf eine Reise begeben, um das zu erreichen. Ich wollte alle Bereiche meines Lebens verbessern.
 
@@ -32,11 +32,11 @@ Ich habe erkannt, dass ich mich selbst gar nicht kenne. Ich weiß nicht, was mir
 
 Daher kam auch das Gefühl der Sinnlosigkeit. Ich bin so schnell gerannt, wie ich konnte und bin trotzdem nicht vorangekommen, weil ich kein wirkliches Ziel hatte.
 
-Ich wollte alles und nichts. 
+Ich wollte alles und nichts.
 
 Ich habe andere Menschen beobachtet, die ich für glücklich gehalten habe und kopiert, was sie machen. In der Hoffnung, dass es auch bei mir funktioniert.
 
-Das hat offensichtlich nicht geklappt.
+Das hat offensichtlich nicht funktioniert.
 
 Ich habe mir also überlegt von vorne anzufangen und mein Leben neu zu denken und vor allem zu fühlen.
 
@@ -46,11 +46,11 @@ Das bedeutet ich muss mich selbst erstmal kennenlernen. Dann kann ich mit einem 
 
 Ziel ist das "Gute Leben", nicht irgendwelche Kennzahlen.
 
-Da ich aber nicht wusste/weiß, was ich möchte und erstmal irgendwo anfangen wollte, habe ich mit dem Training begonnen. 
+Da ich aber nicht wusste/weiß, was ich möchte und erstmal irgendwo anfangen wollte, habe ich mit dem Training begonnen.
 
-Sport war schon immer eine großer Teil in meinem Leben. Ich kenne mich gut aus und weiß, wie es funktioniert. Ich habe also mit wenig Überraschungen gerechnet und es als sicheres Testfeld genutzt.
+Sport war schon immer ein großer Teil in meinem Leben. Ich kenne mich gut aus und weiß, wie es funktioniert. Ich habe also mit wenig Überraschungen gerechnet und es als sicheres Testfeld genutzt.
 
-Ich habe das Training so gestaltet, dass ich wieder mehr Spaß daran habe. Ich habe Übungen, die sich nicht gut angefühlt haben ersetzt und im Laufe der Zeit alles einmal überholt.
+Ich habe das Training so gestaltet, dass ich wieder mehr Spaß daran habe. Ich habe Übungen, die sich nicht gut angefühlt haben, ersetzt und im Laufe der Zeit alles einmal überholt.
 
 Weil ich nicht nur auf meinen Körper Fettgehalt geachtet habe, habe ich auch wieder Fortschritte gemacht.
 
@@ -60,15 +60,15 @@ Außerdem hat es mir Sicherheit gegeben. Ich brauchte nicht die volle Kontrolle 
 
 Irgendwann ist mir der Begriff Wiederaufbau eingefallen. Zuerst habe ich dabei nur an die Muskeln gedacht, die ich im Laufe der letzten Jahre verloren habe. Es passt aber auch zum Rest.
 
-Ich habe angefangen mich zu öffnen, über meine Gedanken und Ängste zu sprechen. Das hat mir sehr geholfen. Ich habe erkannt, dass ich nicht alleine bin und alle ihr Päckchen zu tragen haben.
+Ich habe angefangen mich zu öffnen, über meine Gedanken und Ängste zu sprechen. Das hat mir sehr geholfen. Ich habe erkannt, dass ich nicht allein bin und alle ihr Päckchen zu tragen haben.
 
-Ich habe immer gedacht, dass es etwas so schlechtes an mir gibt, das meine guten Seiten zu Nichte macht.
+Ich habe immer gedacht, dass es etwas so Schlechtes an mir gibt, dass meine guten Seiten zu Nichte macht.
 
 Das war meine Erklärung dafür, dass mein Leben noch nicht perfekt ist, egal wie sehr ich es versucht habe.
 
-Es muss ja einen Grund geben, warum ich den Topf voller Gold am Ende des Regenbogens noch nicht gefunden habe.
+Es muss einen Grund geben, warum ich den Topf voller Gold am Ende des Regenbogens noch nicht gefunden habe.
 
-Ich dachte, es gibt irgendwann einen Punkt, an dem alle Probleme gelöst sind und ich mein Leben einfach genießen kann. Ich wollte das Leben so schnell wie möglich durchspielen, was immer das heißt.
+Ich dachte, es gibt irgendwann einen Punkt, an dem alle Probleme gelöst sind und ich mein Leben einfach genießen kann. Ich wollte das Leben so schnell wie möglich durchspielen, was immer, das heißt.
 
 Ich habe angefangen, das zu hinterfragen.
 
@@ -76,7 +76,7 @@ Alle haben Probleme, auch wenn es vielleicht von außen nicht so wirkt. Nichts i
 
 Anstatt nur Sachbücher zu lesen, habe ich auch einfach nur zum Spaß gelesen.
 
-Anstatt nach Feierabend direkt ins Bett zu gehen und somit nur zu arbeiten, trainieren und zu schlafen habe ich angefangen jeden Tag raus zu gehen und irgendetwas zu machen.
+Anstatt nach Feierabend direkt ins Bett zu gehen und somit nur zu arbeiten, trainieren und zu schlafen habe ich angefangen jeden Tag rauszugehen und irgendetwas zu machen.
 
 Allein die Tatsache, noch eine Kleinigkeit zu unternehmen, hat mir wieder sehr viel Lebensqualität zurückgebracht.
 
@@ -96,13 +96,13 @@ Ich kann meine Ziele erreichen und gleichzeitig Freude daran haben. Dann ist das
 
 Es geht nicht unbedingt um das Ergebnis, sondern um den Weg dorthin.
 
-Es ist viel einfacher, dran zu bleiben, wenn etwas Spaß macht.
+Es ist viel einfacher, dranzubleiben, wenn etwas Spaß macht.
 
 Ein wichtiger Schritt war auch nicht mehr alles zu tracken.
 
 Ich habe das eigentliche Ziel aus den Augen verloren und mich nur noch an den Zahlen orientiert. Solange sie in Ordnung waren, ging es mir gut.
 
-Ich habe versucht wieder mehr auf meinen Körper zu achten und zu hören. Am Anfang ist es mir sehr schwer gefallen, weil ich die Gefühle so lange unterdrückt habe. Ich glaube mittlerweile wird es aber wieder besser.
+Ich habe versucht wieder mehr auf meinen Körper zu achten und zu hören. Am Anfang ist es mir sehr schwergefallen, weil ich die Gefühle so lange unterdrückt habe. Ich glaube mittlerweile wird es aber wieder besser.
 
 Ich werde zwar langsam schwerer, das ist aber eingeplant. Ich möchte Muskeln aufbauen.
 
@@ -112,7 +112,7 @@ Ich fühle mich durch diese Änderung deutlich weniger gehetzt und unter Druck g
 
 Ich habe auch gelernt, dass ich meinen Gedanken nicht uneingeschränkt glauben muss. Nur weil ich etwas denke, muss es nicht der Wahrheit entsprechen. Ich kann jeden Gedanken hinterfragen und ihn dadurch gegebenenfalls entkräften.
 
-Ich habe eine Entscheidung zu meiner Wohnsituation getroffen und kümmere mich darum, dass es weitergeht. Ich glaube es war eine wichtiger Schritt, dass es hier weitergeht.
+Ich habe eine Entscheidung zu meiner Wohnsituation getroffen und kümmere mich darum, dass es weitergeht. Ich glaube es war ein wichtiger Schritt, dass es hier weitergeht.
 
 Der Frühling tut mir auch sehr gut. Es wird wärmer und alles wird grün. Es ist meine Lieblingsjahreszeit.
 

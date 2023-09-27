@@ -30,10 +30,10 @@ Zusätzlich habe ich angefangen mich auf einen Gymnastikball zu setzen, um meine
 
 Ich kann mittlerweile runder gehen, weil meine Hüfte beweglicher ist. Es fühlt sich noch sehr merkwürdig an. Es ist, als müsste ich das Gehen neu lernen.
 
-Vorher war es sehr abgehackt. Ich habe mich mal auf einem Video Laufen gesehen und war ziemlich entsetzt. Es ist mir wie ein Wunder vorgekommen, dass ich überhaupt vorwärts gekommen bin.
+Vorher war es sehr abgehackt. Ich habe mich mal auf einem Video laufen gesehen und war ziemlich entsetzt. Es ist mir wie ein Wunder vorgekommen, dass ich überhaupt vorwärtsgekommen bin.
 
 Ich werde weiter dranbleiben und an meiner Haltung und Beweglichkeit arbeiten. Es fühlt sich wirklich gut an.
 
-Wenn ich mich im Fitnessstudio dehne, ist oft auch eine Frau dort. Ich habe den Eindruch schon recht beweglich zu sein. Sie macht aber ähnliche Übungen wie ich und ich kann sehen, dass ich noch einen weiten Weg vor mir habe.
+Wenn ich mich im Fitnessstudio dehne, ist oft auch eine Frau dort. Ich habe den Eindruck schon recht beweglich zu sein. Sie macht aber ähnliche Übungen wie ich und ich kann sehen, dass ich noch einen weiten Weg vor mir habe.
 
 Trotzdem bin ich sehr zufrieden, wie es sich entwickelt hat. Ich glaube für einen Mann kann sich meine Beweglichkeit mittlerweile sehen lassen.

@@ -78,7 +78,7 @@ Etwas von dem ich komplett überzeugt bin, nicht aufhören kann daran zu denken 
 
 Ich möchte mich auf etwas festlegen und mir sicher sein, dass es das richtige für mich ist.
 
-Anstatt meine Schiffe zu verbennen und mich auf die Sache zu konzentrieren, baue ich immer mehr, um mir immer mehr Optionen offen zu halten. Es könnte sich ja etwas besseres bieten.
+Anstatt meine Schiffe zu verbrennen und mich auf die Sache zu konzentrieren, baue ich immer mehr, um mir immer mehr Optionen offen zu halten. Es könnte sich etwas Besseres bieten.
 
 Für mich wirkt das Gras auf der anderen Seite immer grüner. Dabei gibt es überall Probleme und Herausforderungen. Nichts ist so schön, wie es scheint.
 
@@ -88,7 +88,7 @@ Zum Glück weiß ich jetzt, dass ich mir diese Sache selbst aufbauen kann. Ich f
 
 Das gibt mir ein Stück weit die Kontrolle darüber.
 
-Mit der Einleitung habe ich meine Frage dazu im Prinzip selbst beantwortet.
+Mit der Einleitung habe ich meine Frage dazu selbst beantwortet.
 
 Ich verwende unverhältnismäßig viel Zeit und Energie für den Versuch mein Leben zu optimieren auf.
 
@@ -96,9 +96,9 @@ Ich kann nicht aufhören darüber nachzudenken.
 
 Ich freue mich über die kleinste Verbesserung von vermeintlich bedeutungslosen Abläufen.
 
-Jeder Schritt einen Widerstand zu entfernen bereitet mir Freude.
+Jeder Schritt einen Widerstand zu entfernen, bereitet mir Freude.
 
-Mich nerven Dinge, die die meisten Menschen wahrscheinlich niemals hinterfragen würden. Es stellt für sie einfach kein Problem dar.
+Mich nerven Dinge, die die meisten Menschen wahrscheinlich niemals hinterfragen würden. Es stellt für sie kein Problem dar.
 
 Für mich ist es oft ein offensichtliches Problem und ich frage mich, warum niemand etwas daran ändert.
 
@@ -106,25 +106,25 @@ Es hat mich genervt das Waschpulver aus der Verpackung in die Waschmaschine zu f
 
 Ich denke darüber nach, wie ich die Spülmaschine einräumen kann, damit das Ausräumen leichter ist.
 
-Meine Ernährung ist nicht nur gesund, auf die Kalorien und Nährstoffe ausgerichtet, sondern auch praktisch beim Einkaufen und Lagern. 
+Meine Ernährung ist nicht nur gesund, auf die Kalorien und Nährstoffe ausgerichtet, sondern auch praktisch beim Einkaufen und Lagern.
 
-Ich verwende entweder halbe oder ganze Verpackungen für eine Mahlzeit. Gleichzeitig ist sie aber auch ziemlich günstig.
+Ich verwende entweder halbe oder ganze Verpackungen für eine Mahlzeit. Gleichzeitig ist sie aber auch günstig.
 
-Der Aufwand den ich in die Zusammenstellung investiert habe, ist völlig übertrieben und das Ergebnis für die meisten wahrscheinlich nicht befriedigend.
+Der Aufwand, den ich in die Zusammenstellung investiert habe, ist völlig übertrieben und das Ergebnis für die meisten wahrscheinlich nicht befriedigend.
 
 Es macht mir aber immer wieder Freude wie schlank die Abläufe sind und ich probiere immer wieder neue Sachen aus, die den Ablauf noch weiter verbessern.
 
-Ich weiß wie Ampeln geschaltet sind und wie schnell ich fahren muss, um eine grüne Welle zu erwischen. 
+Ich weiß wie Ampeln geschaltet sind und wie schnell ich fahren muss, um eine grüne Welle zu erwischen.
 
-Es nervt mich Dinge wiederholt zu machen. Bei vielem lässt es sich nicht verhindern. Das möchte ich dann so effizient wie möglich machen. 
+Es nervt mich Dinge wiederholt zu machen. Bei vielem lässt es sich nicht verhindern. Das möchte ich dann so effizient wie möglich machen.
 
-Am liebsten mache ich etwas einmal und löse das Problem endgültig. 
+Am liebsten mache ich etwas einmal und löse das Problem endgültig.
 
-Das beste Beispiel dafür ist das Einrichten von einem Sparplan. Nachdem es läuft, muss ich mich nicht mehr darum kümmern. Trotzdem wird das Depot jeden Monat größer.
+Das beste Beispiel dafür ist das Einrichten eines Sparplans. Nachdem es läuft, muss ich mich nicht mehr darum kümmern. Trotzdem wird das Depot jeden Monat größer.
 
-Ich bin kein Fan von dem ganzen Drumherum. Alles was nötig ist, um ein Leben zu führen: Einkaufen, Kochen, Aufräumen, … 
+Ich bin kein Fan des ganzen Drumherums. Alles, was nötig ist, um ein Leben zu führen: Einkaufen, Kochen, Aufräumen, …
 
-Die Wäsche muss irgendwie gewaschen werden, es muss doch aber einen besseren Weg geben als den aktuellen.
+Die Wäsche muss gewaschen werden, es muss doch aber einen besseren Weg geben als den aktuellen.
 
 Ich würde gerne im Hotel leben. Dort wird mir das alles abgenommen. Das ist aber keine echte Lösung, sondern ich gebe die Arbeit einfach nur ab.
 
@@ -132,29 +132,29 @@ Mir wäre es am liebsten, wenn das alles automatisiert würde.
 
 Es fühlt sich so unnötig an. Der Aufwand steht in keinem Verhältnis zum Nutzen.
 
-Immer wieder das Gleiche Tag für Tag, Woche für Woche ohne wirklich weiterzukommen. 
+Immer wieder das Gleiche Tag für Tag, Woche für Woche, ohne wirklich weiterzukommen.
 
 Ich mache auch immer das Gleiche. Der Unterschied ist aber, der Fortschritt. Mir gefallen Dinge, die mit der Zeit besser werden.
 
 Ich möchte nicht jeden Tag Eimer mit Wasser hin und her tragen, sondern einen Kanal graben.
 
-Aber je mehr ich mich gegen das Schleppen wehre, umso schlimmer wird es. 
+Aber je mehr ich mich gegen das Schleppen wehre, umso schlimmer wird es.
 
-Ich kann auch etwas Gutes daran finden, zum Beispiel, dass ich immer immer stärker werde, und gleichzeitig einen Kanal graben.
+Ich kann auch etwas Gutes daran finden, zum Beispiel, dass ich immer stärker werde, und gleichzeitig einen Kanal graben.
 
 Außerdem ist nur die Struktur gleich. Die tatsächliche Arbeit unterscheidet sich immer.
 
-Ich brauche dort die Abwechslung, mag aber eine feste Struktur in der sie entsteht.
+Ich brauche dort die Abwechslung, mag aber eine feste Struktur, in der sie entsteht.
 
 Ich möchte mir nicht jeden Morgen überlegen, was ich anziehe, esse und wie ich den Tag verbringe.
 
-Ich wünsche mir ein Unternehmen, dass ein Probleme abschließend löst und sich dann mit dem nächsten beschäftigt oder aufgelöst wird.
+Ich wünsche mir ein Unternehmen, dass ein Problem abschließend löst und sich dann mit dem nächsten beschäftigt oder aufgelöst wird.
 
 Die ersten Autos haben zu lange gehalten, als dass es ein gutes Geschäft gewesen wäre.
 
 Das sollte aber das Ziel sein.
 
-Die Umgebung sollte so gestaltet werden, dass viele Probleme gar nicht erst entstehen. 
+Die Umgebung sollte so gestaltet werden, dass viele Probleme gar nicht erst entstehen.
 
 Wenn alles fußläufig ist, brauche ich kein Auto mehr.
 
@@ -162,13 +162,13 @@ Häuser sollten so gebaut werden, dass sie keine Heizung brauchen. Für das Warm
 
 Ich glaube, dass wir mit gutem Design viele Probleme verhindern und ein besseres Leben führen können.
 
-Ich bin bereit sehr viel Aufwand zu investieren, um etwas zu starten, dass dann zumindest auf dem selben Stand bleibt oder sich von selbst weiter verbessert. 
+Ich bin bereit sehr viel Aufwand zu investieren, um etwas zu starten, dass dann zumindest auf demselben Stand bleibt oder sich von selbst weiter verbessert.
 
-Auch hier ist das Depot ein gutes Beispiel. Wenn ich heute aufhören würde Geld einzuzahlen, würde es trotzdem weiter wachsen und mir Dividenden ausschütten.
+Auch hier ist das Depot ein gutes Beispiel. Wenn ich heute aufhören würde Geld einzuzahlen, würde es trotzdem weiterwachsen und mir Dividenden ausschütten.
 
-Im Gegensatz dazu steht natürlich der Sport und das Training.
+Im Gegensatz dazu stehen der Sport und das Training.
 
-Sobald ich aufhöre, baue ich ab. 
+Sobald ich aufhöre, baue ich ab.
 
 Ich sehe den Sport, die Ernährung und den Schlaf aber als Werkzeuge, um meine Gesundheit zu verbessern und gut zu Altern. Es macht alles andere erst möglich.
 
@@ -178,7 +178,7 @@ Ich würde selbst dann Sport machen, wenn es eine Pille gäbe, die den gleichen 
 
 Ich glaube ich suche etwas, dass mich so sehr fesselt, dass ich Freude im Hier und Jetzt empfinde und nicht immer auf eine Belohnung in der Zukunft hoffe.
 
-Ich habe gelernt, dass ich nicht zufällig darüber stolpere, sondern (fast) alles zu dem machen kann, wenn ich mich aktiv darum bemühe. 
+Ich habe gelernt, dass ich nicht zufällig darüber stolpere, sondern (fast) alles zu dem machen kann, wenn ich mich aktiv darum bemühe.
 
 Indem ich etwas so gut wie möglich mache und mich wirklich darauf konzentriere, können mich die meisten Tätigkeiten fesseln.
 
@@ -190,13 +190,13 @@ Es ist nicht mehr so wichtig, wie ich aussehe, ob ich finanziell unabhängig bin
 
 Das merke ich immer wieder, wenn ich es schaffe meinen Verstand zu beruhigen und an nichts zu denken oder wenn ich im Flow bin.
 
-Ich vergesse das aber immer wieder und renne den Belohnungen hinter her. Dabei ist die Lösung stehenzubleiben und den Moment zu genießen.
+Ich vergesse das aber immer wieder und renne den Belohnungen hinterher. Dabei ist die Lösung stehenzubleiben und den Moment zu genießen.
 
 Ich entscheide, wie ich auf eine Situation reagiere. Ich muss mich nicht aufregen oder ärgern. Ich kann sie beobachten und akzeptieren. Das ist aber sehr schwierig.
 
 Das Universum ist gleichgültig. Meine Bewertungen und Erwartungen geben Dingen einen Wert und die kann ich kontrollieren lernen.
 
-Menschen sind glücklich, wenn sie ihre Stärken einsetzen und sich selbst fordern. 
+Menschen sind glücklich, wenn sie ihre Stärken einsetzen und sich selbst fordern.
 
 Wenn wir so zum Wohle aller arbeiten sind wir glücklich und alle anderen profitieren davon.
 

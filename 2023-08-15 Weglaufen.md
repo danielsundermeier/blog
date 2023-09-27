@@ -14,7 +14,7 @@ Manchmal würde ich auch gerne mit meinen Händen arbeiten und als Kunsthandwerk
 
 Als Landwirt könnte ich mir vorstellen die Nachbarschaft mit Lebensmitteln zu versorgen und die Umgebung zu gestalten.
 
-Ich würde mich auch gerne mein Leben der Persönlichkeitsentwicklung widmen und Bücher darüber schreiben oder einen Podcast starten, wie Cal Newport oder Andrew Huberman. Ich denke auch immer wieder an den Ort der Persönlichkeitsentwicklung.
+Ich würde mich auch gerne mein Leben der Persönlichkeitsentwicklung widmen und Bücher darüberschreiben oder einen Podcast starten, wie Cal Newport oder Andrew Huberman. Ich denke auch immer wieder an den Ort der Persönlichkeitsentwicklung.
 
 Das ist nur die Spitze des Eisbergs.
 
@@ -28,7 +28,7 @@ Ich habe mir letztens überlegt, ob ich mit jemandem das Leben tauschen würde u
 
 Ich denke mir immer wieder, dass das Leben eines anderen interessant wirkt, merke dann aber recht schnell, dass es nichts für mich ist. Cal Newport ist aktuell so ein Fall.
 
-Ich habe den Eindruck, dass er weiß, was er tut und viel Spaß dabei hat. Sein Leben wirkt rund und er scheint zufrieden zu sein.
+Ich habe den Eindruck, dass er weiß, was er tut, und viel Spaß dabeihat. Sein Leben wirkt rund und er scheint zufrieden zu sein.
 
 Er geht sehr methodisch vor, was mir sehr gut gefällt.
 
@@ -38,15 +38,15 @@ Mir fehlt etwas und ich komme nicht drauf, was es ist.
 
 Ich schaffe es immer wieder mich zu motivieren, indem ich etwas Neues lerne und dann ausprobieren kann.
 
-Ich komme aber auch immer wieder zu der Leere zurück. 
+Ich komme aber auch immer wieder zu der Leere zurück.
 
-Ich bin auf der Suche nach einem Sinn. 
+Ich bin auf der Suche nach einem Sinn.
 
 Was haben alle meine unterschiedlichen Vorstellungen von einem Leben gemeinsam?
 
-Es geht immer irgendwie um Fortschritt und das Verbessern.
+Es geht immer um Fortschritt und das Verbessern.
 
-Ich möchte nicht irgendetwas machen, sondern es sollte etwas außergewöhnliches sein. Ich möchte nicht einfach nur einen Tisch bauen, sondern einen besonders guten.
+Ich möchte nicht irgendetwas machen, sondern es sollte etwas Außergewöhnliches sein. Ich möchte nicht nur einen Tisch bauen, sondern einen besonders guten.
 
 In meiner Vorstellung möchte ich immer alles perfekt machen. Ich möchte Kritik keinen Platz bieten und mich so davor schützen.
 
@@ -72,9 +72,9 @@ Deshalb hat mir das Buch "Search Insight Yourself" wahrscheinlich so gut gefalle
 
 Mit dem Training der Aufmerksamkeit können wir uns selbst immer besser kennenlernen, entwickeln so ein Selbstbewusstsein und eine innere Zufriedenheit.
 
-Der Dalai Lama wurde in einem Interview angeblich mal gefragt, was wir machen können, wenn wir uns selbst nicht mögen. 
+Der Dalai Lama wurde in einem Interview angeblich mal gefragt, was wir machen können, wenn wir uns selbst nicht mögen.
 
-Dabei gab es Probleme bei der Übersetzung. Er hat es einfach nicht verstanden.
+Dabei gab es Probleme bei der Übersetzung. Er hat es nicht verstanden.
 
 Am Anfang fühle ich mich immer besser, je mehr ich mache.
 
@@ -88,7 +88,7 @@ Ich werde dann gierig und gucke links und rechts, was ich noch alles besser mach
 
 Ich fange dann an, Dinge zu erzwingen und das ist anstrengend.
 
-Sobald ich Dinge tun "muss" und sie in meinen Tagesablauf "quetsche", wird es zu viel. 
+Sobald ich Dinge tun "muss" und sie in meinen Tagesablauf "quetsche", wird es zu viel.
 
 Dann leidet meine Lebensqualität darunter.
 
@@ -108,7 +108,7 @@ Anstatt Möglichkeiten, sehe überall nur noch Probleme. Alles, was besser sein 
 
 Ich nehme mir immer mehr vor und merke dann, dass es zu viel ist. Ich fühle mich überfordert und gehetzt.
 
-Ich möchte alles hinschmeißen und weglaufen. 
+Ich möchte alles hinschmeißen und weglaufen.
 
 An diesem Punkt wünsche ich mir ein anderes Leben, in dem alles besser ist. In dem es keine Probleme gibt und immer alles funktioniert.
 
@@ -136,13 +136,13 @@ Ich muss es nicht im Kloster leben. Ich kann auch so meditieren.
 
 Es muss nicht immer ein Extrem sein. Ich kann mir die Punkte, die mir gefallen, heraussuchen und daraus mein eigenes Leben aufbauen.
 
-Ich kann mein Leben so gestalten, wie ich das für richitg halte.
+Ich kann mein Leben so gestalten, wie ich das für richtig halte.
 
 Ich möchte erkennen, dass es mich deutlich schlechter hätte treffen können.
 
 Ich möchte akzeptieren, dass ich es im Großen und Ganzen gut mache.
 
-Es gibt immer Wege, etwas besser zu machen. 
+Es gibt immer Wege, etwas besser zu machen.
 
 Ich habe jetzt gelernt, dass ich nicht mal optimal atme. Das ist aber nicht schlimm!
 

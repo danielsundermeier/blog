@@ -4,7 +4,7 @@ Die letzten vier Wochen habe ich mich sehr auf mein Leben fokussiert.
 
 Ich habe der Unterhaltung entsagt. Ich höre nur noch Musik oder ein Hörbuch, wenn ich trainiere und lesen ein bisschen.
 
-Ich weiß, dass es wieder sehr Extrem ist, ich gehe das Riko aber bewusst ein. Ich möchte Ablenkungen vermeiden. Ich trickse mich zu leicht aus und lenke mich ab. Das ist für mich eine Art des Weglaufens.
+Ich weiß, dass es wieder sehr extrem ist, ich gehe das Riko aber bewusst ein. Ich möchte Ablenkungen vermeiden. Ich trickse mich zu leicht aus und lenke mich ab. Das ist für mich eine Art des Weglaufens.
 
 Ziel des Ganzen ist, mich kennenzulernen und herauszufinden, was ich möchte.
 
@@ -18,7 +18,7 @@ Auf der Selbsterkenntnis baut alles andere auf.
 
 Ich kümmere mich aktuell um die Beweglichkeit meines Körpers, meine Haltung und versuche meine Gefühle zu ergründen.
 
-Ich habe angefangen viel zu meditieren und es scheint mir sehr gut zu tun. Durch die Zeit mit meinen Gedanken habe ich schon ein paar Erkenntnisse erlangt. 
+Ich habe angefangen viel zu meditieren und es scheint mir sehr gut zu tun. Durch die Zeit mit meinen Gedanken habe ich schon ein paar Erkenntnisse erlangt.
 
 Ich fühle mich ruhiger und nicht mehr so gehetzt. Ich schaffe es mir wirklich Zeit für mich zu nehmen, ohne immer auf die Uhr zu gucken.
 
@@ -28,7 +28,7 @@ Ich schreibe dem Meditieren die Fortschritte beim Spüren und Fühlen zu.
 
 Es ermöglicht mir Gefühle zu bemerken und sie zu ergründen.
 
-Ich habe auch von einer Technik gelernt, um sich selbst kennenzulernen. Ich oder jemand anderes stellt immer wieder die selbe Frage.
+Ich habe auch von einer Technik gelernt, um sich selbst kennenzulernen. Ich oder jemand anderes stellt immer wieder dieselbe Frage.
 
 Am Anfang habe ich bekannte Antworten gegeben. Irgendwann kam aber eine von tiefer in mir, eine, die ich nicht kannte. Das ist etwas gruselig, scheint aber wirklich zu funktionieren.
 
@@ -36,11 +36,11 @@ So kann ich dem näher kommen, was ich wirklich möchte und mich kennenlernen.
 
 Dafür brauche ich aber die nötige Aufmerksamkeit, die ich durch das Meditieren trainiere.
 
-Wenn ich immer direkt alles googlen würde, wäre ich mir nicht mehr sicher, ob es wirklich meine Gedanken sind oder ob ich sie einfach wieder übernommen habe, weil sie sich gut anhören.
+Wenn ich immer direkt alles Googlen würde, wäre ich mir nicht mehr sicher, ob es wirklich meine Gedanken sind oder ob ich sie einfach wieder übernommen habe, weil sie sich gut anhören.
 
 Ich lasse mich zu leicht beeinflussen und auf diese Weise versuche ich die Möglichkeit zu verringern.
 
-Das Bild von meine Leben wird langsam klarer und es kommen immer mehr Details dazu. Ich traue dem ganzen aber noch nicht so ganz. Ich bin mir nicht sicher, ob ich mich selbst wieder austrickse
+Das Bild von meinem Leben wird langsam klarer und es kommen immer mehr Details dazu. Ich traue dem ganzen aber noch nicht so ganz. Ich bin mir nicht sicher, ob ich mich selbst wieder austrickse
 
 Es ist zwar noch sehr oberflächlich, ich brauche aber auch erst mal eine generelle Vision und muss noch nicht genau wissen, wie jede Einzelheit aussehen soll.
 
@@ -50,7 +50,7 @@ Mir ist auch wieder aufgefallen, dass mir die Persönlichkeitsentwicklung wirkli
 
 Es gefällt mir, herauszufinden wie ich Dinge besser machen kann und es dann auszuprobieren.
 
-Ich mache das zumindest im ersten Schritt nur für mich. 
+Ich mache das zumindest im ersten Schritt nur für mich.
 
 Der Gedanke dadurch anerkannt zu werden kommt erst später, sorgt dann aber dafür, dass ich es übertreibe und dadurch den Spaß verliere.
 
