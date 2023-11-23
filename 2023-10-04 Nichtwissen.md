@@ -1,15 +1,15 @@
 # Nichtwissen
 
 Ich fühle mich aktuell wieder ziellos. Ich weiß nicht, wohin ich möchte. Es gibt so viele offene Fragen, auf die ich keine Antworten finde.
- 
+
 Ich weiß einfach nicht, was ich mit meinem Leben anfangen möchte.
- 
+
 Wo und wie möchte ich wohnen?
- 
+
 Möchte ich die Welt sehen oder lieber zu Hause bleiben?
- 
+
 Möchte ich weiter möglichst viel erreichen oder habe ich irgendwann genug?
- 
+
 Soll alles wie gewohnt weitergehen oder möchte ich etwas komplett anderes machen?
  
 Möchte ich vielleicht sogar eine Familie gründen?
