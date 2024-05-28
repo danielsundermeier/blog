@@ -18,4 +18,3 @@ Es gibt vier Methoden, um Selbstwirksamkeit aufzubauen:
 - Vorbilder: Erfolgsgeschichten von anderen
 - Verbale Überzeugung: Ermutigung von anderen oder uns selbst
 - Körperliche Zustände: Entspannung, Ernährung, Schlaf
-
