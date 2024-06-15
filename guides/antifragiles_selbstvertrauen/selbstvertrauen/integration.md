@@ -62,6 +62,10 @@ Wie sieht es aus? Was machen wir? Wie fühlt es sich an?
 
 Wir kreieren so ein Ziel, auf das wir hinarbeiten können.
 
+## Top 10
+
+Wir können unsere 10 ermutigendsten und energiespendendsten Erinnerungen aus unserer Vergangenheit aufschreiben und darunter unsere aktuelle Herausfroderung. Dann hängen wir den Zettel dort auf, wo wir ihn immer sehen können.
+
 ## Algorithmen
 
 - Je schlechter ich mich fühle, umso wichtiger ist mein Protokoll

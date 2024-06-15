@@ -18,3 +18,17 @@ Es gibt vier Methoden, um Selbstwirksamkeit aufzubauen:
 - Vorbilder: Erfolgsgeschichten von anderen
 - Verbale Überzeugung: Ermutigung von anderen oder uns selbst
 - Körperliche Zustände: Entspannung, Ernährung, Schlaf
+
+## Bankkonto
+
+Unser Selbstvetrauen ist wie ein Bankkonto. Wir können einzahlen und abheben.
+
+Wir heben etwas von unserem Selbstvertrauen ab, indem wir über vergangene Rückschläge und Fehler nachdenken oder uns über die Zukunft sorgen.
+
+Einzahlungen stärken unser Selbstvertrauen.
+
+Es gibt 3 Zeithorizonte in denen wir etwas einzahlen können:
+
+- Vergangenheit: Erfolge, die wir in der Vergangenheit erlebt haben.
+- Gegenwart: Konstruktives Denken in der Gegenwart.
+- Zukunft: Vorstellen unseres idealen zukünftigen Ichs.
