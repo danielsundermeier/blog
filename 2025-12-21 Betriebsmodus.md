@@ -4,6 +4,8 @@ Ich habe gestern eine Satire geschaut. Obwohl sie gut gemacht und eigentlich wit
 
 In den letzten Wochen habe ich mindestens zwei politische Texte angefangen, die aber schnell in Wutreden abgerutscht sind. Ich spüre Frustration, Hilflosigkeit und Verständnislosigkeit, wenn ich mir Politik oder die Welt anschaue. Außerdem steigt der Drang, über all die Probleme und Entscheidungen zu schreiben. Aber das ist nicht der Kern hier.
 
+Beim Anschauen der Satire wurde mir klar, warum mich Politik und Alltag manchmal so wütend und hilflos fühlen lassen. Unsere Entscheidungen folgen oft kurzfristigen, materiellen Zielen, behandeln Symptome statt Ursachen und schaffen dadurch Strukturen, die nicht nachhaltig sind.
+
 Ich merke immer deutlicher, dass wir Menschen zwischen zwei Modi wechseln:
 
 1. **Stress: Aktivierung & Schutz**
