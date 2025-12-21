@@ -55,7 +55,7 @@ Und dann bin ich auf den Geodome gestoßen.
 
 ---
 
-# **Der Moment, in dem alles einfach wurde**
+## Der Moment, in dem alles einfach wurde
 
 Ein Geodome ist eine kuppelförmige Struktur, die aus Dreiecken besteht.
 Dreiecke sind extrem stabil – stabiler als Rechtecke.
@@ -84,7 +84,7 @@ Und damit wurde der Gedanke möglich, der alles verändert:
 
 ---
 
-# **Wie ein einziger Dome eine Kettenreaktion auslösen kann**
+## Wie ein einziger Dome eine Kettenreaktion auslösen kann
 
 Die Natur wächst nicht durch Pläne.
 Sie wächst durch **Reproduktion**.
@@ -103,7 +103,7 @@ Und die Kettenreaktion sieht so aus:
 
 ---
 
-## **1) Man baut einen einzigen funktionierenden Dome**
+### Man baut einen einzigen funktionierenden Dome
 
 Nicht theoretisch.
 Nicht als Vision.
@@ -127,7 +127,7 @@ Dieser erste Dome ist die Urzelle.
 
 ---
 
-## **2) Menschen bauen ihn gemeinsam**
+### Menschen bauen ihn gemeinsam
 
 Nicht nur Profis, nicht nur Freunde –
 sondern Menschen, die später darin leben wollen
@@ -147,7 +147,7 @@ Das ist die erste soziale DNA des Systems.
 
 ---
 
-## **3) Der zweite Dome wird von diesen Menschen gebaut – nicht von dir**
+### Der zweite Dome wird von diesen Menschen gebaut – nicht von dir
 
 Das ist der kritische Moment.
 
@@ -162,7 +162,7 @@ Eine Lösung, die sich selbst reproduziert, skaliert automatisch.
 
 ---
 
-## **4) Jede Person baut zwei Dome**
+### Jede Person baut zwei Dome
 
 Einen für sich selbst –
 und einen für den nächsten Menschen.
@@ -181,7 +181,7 @@ ein soziales Myzel.
 
 ---
 
-## **5) Die ersten 50 Menschen ziehen ein – Kultur entsteht**
+### Die ersten 50 Menschen ziehen ein – Kultur entsteht
 
 Ein Dome ist nicht nur ein Gebäude.
 Er ist ein Lebensraum:
@@ -214,7 +214,7 @@ das moderne Architektur kaum noch erzeugen kann.
 
 ---
 
-## **6) Andere Menschen sehen es – und wollen es nachmachen**
+### Andere Menschen sehen es – und wollen es nachmachen
 
 Das ist der wahre Start der Kettenreaktion.
 
@@ -237,7 +237,7 @@ Ein funktionierender Dome ist ein Argument, das sich selbst erklärt.
 
 ---
 
-# **Am Ende steht etwas, das ich selbst kaum glauben konnte**
+## Am Ende steht etwas, das ich selbst kaum glauben konnte
 
 Während ich über diese Idee gesprochen habe,
 ist mir klar geworden:
