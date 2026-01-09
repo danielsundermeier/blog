@@ -3,6 +3,7 @@
 **Vom Steuern zum Wachsenlassen**
 
 Wozu gibt es eigentlich Regierungen?
+
 Auf den ersten Blick scheint die Antwort klar: Wir organisieren uns, weil wir gemeinsam besser leben können als allein. Menschen schließen sich zusammen, um Sicherheit zu schaffen, Probleme zu teilen und Dinge möglich zu machen, die für Einzelne zu groß wären. Straßen, Bildung, Gesundheit, Schutz, Versorgung – all das entsteht nicht im Alleingang, sondern durch Kooperation. In diesem Sinne ist Regierung ursprünglich keine Machtstruktur, sondern eine Koordinationsstruktur. Eine Art Werkzeug, mit dem eine Gemeinschaft ihre gemeinsamen Aufgaben organisiert.
 
 In dieser Logik liegt eine einfache, fast selbstverständliche Annahme: Wenn es den Menschen gut geht, dann geht es auch der Gemeinschaft gut. Und wenn es der Gemeinschaft gut geht, kann sie die Menschen noch besser unterstützen. Eigentlich müsste daraus eine Aufwärtsspirale entstehen. Gute Lebensbedingungen führen zu gesunden, kreativen, kooperationsfähigen Menschen. Diese Menschen gestalten stabile, lebendige Gemeinschaften. Und diese Gemeinschaften schaffen wiederum noch bessere Bedingungen für die nächste Runde. Ein Kreislauf, der sich selbst verstärkt.
