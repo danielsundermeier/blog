@@ -2,10 +2,10 @@
 
 ## Metadata
 
-- **Version**: 2.0
+- **Version**: 2.1
 - **Erstellt**: 2025-12-21
 - **Zweck**: Inspirierende Tweets zur Etablierung und Erinnerung des Eudaimonica-Weltmodells
-- **Output**: JSON-Datei mit 3–7 Tweets pro Blogartikel
+- **Output**: JSON-Datei mit so vielen Tweets wie der Text sinnvolle Ideen hergibt
 - **Funktion**: Öffentliche Beschreibung einer bewohnbaren, stimmigen Welt
 
 ---
@@ -89,7 +89,7 @@ sondern als **gelebte Realität dieses Weltmodells**.
 
 ## Formale Vorgaben
 
-- **3–7 Tweets**
+- **So viele Tweets wie der Text sinnvolle Ideen hergibt**
 - < 280 Zeichen
 - 0–1 Emoji optional (sparsam, warm)
 - 0–2 dezente Hashtags (z. B. #Eudaimonia #Gleichgewicht)
@@ -102,9 +102,8 @@ sondern als **gelebte Realität dieses Weltmodells**.
 Ein Gedanke pro Tag.
 Raum zum Nachwirken lassen.
 
-- 3 Tweets → Tag 0–2
-- 4–5 Tweets → Tag 0–4
-- 6–7 Tweets → Tag 0–6
+Bei N Tweets: Tag 0 bis Tag N-1
+(z.B. 5 Tweets → Tag 0, 1, 2, 3, 4)
 
 ---
 
@@ -132,13 +131,10 @@ Raum zum Nachwirken lassen.
 **VORGEHEN:**
 
 1. Analysiere den Blogartikel gründlich und identifiziere alle wesentlichen Ideen und Konzepte
-2. Bewerte die Texttiefe: Reicht der Inhalt für 3, 4, 5, 6 oder 7 einzigartige Tweets?
-3. Erstelle für jede wesentliche Idee einen eigenständigen, wertvollen Tweet
+2. Erstelle für jede eigenständige, wesentliche Idee einen wertvollen Tweet
+3. Bewerte realistisch: Wie viele einzigartige, substanzielle Tweets lassen sich aus dem Text ziehen?
 4. Sorge für thematische Diversität - verschiedene Blickwinkel und Aspekte abdecken
-5. Wähle den passenden Zeitplan basierend auf der Tweet-Anzahl:
-   - 3 Tweets: Tag 0, 1, 2
-   - 4-5 Tweets: Tag 0, 1, 2, 3, 4
-   - 6-7 Tweets: Tag 0, 1, 2, 3, 4, 5, 6
+5. Verteile die Tweets auf aufeinanderfolgende Tage (1 Tweet pro Tag, beginnend ab Tag 0)
 6. Formatiere als JSON-Array
 7. Speichere die Datei als `[ARTIKELNAME].json` ohne `.md` im Verzeichnis `tweets/posts/`
 
