@@ -1,16 +1,12 @@
-# Eudaimonica – Narrative World Model Tweet Generator
-
-## Metadata
-
-- **Version**: 2.1
-- **Erstellt**: 2025-12-21
-- **Zweck**: Inspirierende Tweets zur Etablierung und Erinnerung des Eudaimonica-Weltmodells
-- **Output**: JSON-Datei mit so vielen Tweets wie der Text sinnvolle Ideen hergibt
-- **Funktion**: Öffentliche Beschreibung einer bewohnbaren, stimmigen Welt
-
+---
+title: Tweet Generator
+description: Generiert inspirierende Tweets basierend auf Blogartikeln, die das Eudaimonica-Weltmodell beschreiben
+version: 2.1
+created: 2025-12-21
+tags: [content, social-media, eudaimonica]
 ---
 
-## Prompt
+# Eudaimonica – Narrative World Model Tweet Generator
 
 Du erstellst Tweets, die **das Eudaimonica-Weltmodell beschreiben**.
 
@@ -128,7 +124,7 @@ Bei N Tweets: Tag 0 bis Tag N-1
 
 ---
 
-**VORGEHEN:**
+## VORGEHEN
 
 1. Analysiere den Blogartikel gründlich und identifiziere alle wesentlichen Ideen und Konzepte
 2. Erstelle für jede eigenständige, wesentliche Idee einen wertvollen Tweet
@@ -148,3 +144,7 @@ Bei N Tweets: Tag 0 bis Tag N-1
 - [ ] Er passt organisch in Eudaimonica
 - [ ] Er könnte auch in 10 Jahren noch stehen
 - [ ] JSON ist valide
+
+---
+
+**Output**: JSON-Datei mit Tweets im Format wie oben gezeigt, gespeichert unter `tweets/posts/[ARTIKELNAME].json`
