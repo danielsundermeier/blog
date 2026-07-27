@@ -82,5 +82,5 @@ Bei einem Auftrag wie „Veröffentliche `drafts/datei.md`“:
 - Keine Tweets erstellen.
 - Entwürfe nach einem abgeschlossenen Standardworkflow oder einem ausdrücklichen Einzelauftrag durch den Herausgeber übernehmen.
 - Autor und Editor erstellen keine Commits oder Pushes.
-- Der Herausgeber committed und pusht ausschließlich die von ihm veröffentlichte Artikeländerung nach seinem eigenen Prozess.
+- Der Herausgeber committed und pusht den veröffentlichten Artikel sowie die Prozess- und Lerndateien, die nachweislich in diesem Artikelzyklus verändert wurden.
 - Bestehende, nicht zur Aufgabe gehörende Änderungen bleiben unangetastet.

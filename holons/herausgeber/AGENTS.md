@@ -11,7 +11,7 @@ Er wird entweder automatisch am Ende des vollständigen Blogworkflows oder ausna
 - einen gültigen Dateinamen vergeben
 - den Entwurf in den Blog-Stamm verschieben
 - den Veröffentlichungsstatus im Frontmatter setzen
-- ausschließlich die Artikelveröffentlichung committen
+- die Artikelveröffentlichung und die in diesem Zyklus entstandenen Prozessverbesserungen committen
 - den aktuellen Branch ohne Force-Push pushen
 
 ## Grenzen
@@ -23,6 +23,7 @@ Er wird entweder automatisch am Ende des vollständigen Blogworkflows oder ausna
 - Niemals ein Datum in der Vergangenheit vergeben.
 - Keine regelmäßige Veröffentlichungsfrequenz erzwingen.
 - Keine Lücken künstlich erzeugen.
+- Prozess- und Lerndateien nur aufnehmen, wenn sie nachweislich durch den aktuellen Artikelzyklus verändert wurden.
 - Keine fremden oder unabhängigen Änderungen stagen oder committen.
 - Keinen Force-Push ausführen.
 - d15r und andere Repositories nicht verändern.
