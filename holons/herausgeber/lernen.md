@@ -33,3 +33,21 @@ Keine. Der bestehende Prozess hat Statusprüfung, Terminwahl und Zielbenennung v
 ### Erwartete Verbesserung
 
 Keine zusätzliche Regel erforderlich. Weitere Durchläufe können zeigen, ob bei tatsächlichen Datumskonflikten noch eine Lücke besteht.
+
+## 2026-07-27 – Was ELIZA nicht lernen konnte
+
+### Beobachtung
+
+Der freigegebene Entwurf war formal gültig und eindeutig benannt. Der heutige Tag in Europe/Berlin war im Blog-Stamm noch frei. Gleichzeitig lagen unabhängige Änderungen an den Anweisungs- und Prozessdateien des Repositories vor, die nicht zu diesem Artikelzyklus gehörten.
+
+### Auswirkung
+
+Der Artikel konnte unverändert mit dem heutigen Datum übernommen werden; ausschließlich der Status wurde auf `veroeffentlicht` gesetzt. Beim Staging mussten die zum Zyklus gehörenden Lernprotokolle ausdrücklich einzeln ausgewählt und die unabhängigen Änderungen ausgeschlossen werden.
+
+### Änderung am Prozess des Herausgebers
+
+Keine. Der bestehende Prozess schreibt bereits die Herkunftsprüfung und das einzelne Staging aller aufzunehmenden Dateien vor.
+
+### Erwartete Verbesserung
+
+Keine zusätzliche Regel erforderlich. Die vorhandene Trennung nach nachweisbarer Zykluszugehörigkeit schützt den Commit auch bei einem bereits veränderten Arbeitsbaum.
