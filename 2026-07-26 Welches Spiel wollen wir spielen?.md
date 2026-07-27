@@ -17,7 +17,7 @@ iteration: 2
 
 # Welches Spiel wollen wir spielen?
 
-Ich saß im Coaching Space beim Essen. Neben mir lag ein Venture-Capital-Magazin.
+Ich saß im Coworking Space beim Essen. Neben mir lag ein Venture-Capital-Magazin.
 
 Ich betrachtete die Titelseite und sah plötzlich einen Affen im Anzug vor mir.
 
