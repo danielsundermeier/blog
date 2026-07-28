@@ -7,13 +7,19 @@ Hier hält der Editor Erfahrungen aus abgeschlossenen Zyklen fest.
 ```markdown
 ## YYYY-MM-DD – Artikel
 
-### Beobachtung
+### Beobachtung und Daten
 
-### Wirkung des Feedbacks
+### Laufendes Experiment
 
-### Änderung am Editor-Prozess
+### Erkannte Wirkung
 
-### Erwartete Verbesserung im nächsten Zyklus
+### Selektionsentscheidung
+
+Beibehalten | Anpassen | Verwerfen | Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+### Neues Experiment und erwartete Wirkung
 ```
 
 ## 2026-07-26 – Welches Spiel wollen wir spielen?

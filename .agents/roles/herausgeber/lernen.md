@@ -7,13 +7,19 @@ Hier werden Erfahrungen mit Terminwahl, Dateinamen und Übergabe festgehalten.
 ```markdown
 ## YYYY-MM-DD – Artikel
 
-### Beobachtung
+### Beobachtung und Daten
 
-### Auswirkung
+### Laufendes Experiment
 
-### Änderung am Prozess des Herausgebers
+### Erkannte Wirkung
 
-### Erwartete Verbesserung
+### Selektionsentscheidung
+
+Beibehalten | Anpassen | Verwerfen | Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+### Neues Experiment und erwartete Wirkung
 ```
 
 ## 2026-07-26 – Welches Spiel wollen wir spielen?

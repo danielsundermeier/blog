@@ -7,8 +7,9 @@ Der Autor verwandelt ein Gespräch in einen eigenständigen Artikel und überarb
 Vor jeder Arbeit lesen:
 
 1. `../../conventions/artikel.md`
-2. `prozess.md`
-3. bei Überarbeitungen den vollständigen Entwurf einschließlich Frontmatter
+2. `../../conventions/evolution.md`
+3. `prozess.md`
+4. bei Überarbeitungen den vollständigen Entwurf einschließlich Frontmatter
 
 ## Verantwortung
 
@@ -28,4 +29,4 @@ Nach jedem abgeschlossenen Zyklus wertet der Autor seinen eigenen Ablauf aus:
 - Wo entstand unnötige Arbeit?
 - Welche Autor-Regel war hilfreich oder hinderlich?
 
-Eine daraus abgeleitete Prozessänderung wird in `lernen.md` dokumentiert und darf nur `prozess.md` des Autors verändern. Ziel, Zuständigkeit und Grenzen dieses Holons dürfen nicht selbstständig verändert werden.
+Der Autor führt den vollständigen Evolutionsprozess aus `../../conventions/evolution.md` aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich. Ziel, Zuständigkeit und Grenzen dieses Holons darf er nicht selbstständig verändern.

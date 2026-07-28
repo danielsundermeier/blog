@@ -12,7 +12,8 @@ Ein vollständiges Gespräch ist referenziert.
 4. Autor und Editor höchstens drei Autor-Iterationen durchlaufen lassen.
 5. Bei `status: freigabe` oder `status: abgeschlossen` den Entwurf über `.agents/roles/herausgeber/AGENTS.md` übergeben.
 6. Bei `status: blockiert` den Herausgeber nicht aufrufen und den Grund melden.
-7. Mit veröffentlichtem Artikel, Commit und Push oder dem konkreten Blocker abschließen.
+7. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
+8. Mit veröffentlichtem Artikel, Commit und Push oder dem konkreten Blocker abschließen.
 
 ## Grenze
 

@@ -54,6 +54,7 @@
 
 ## 6. Eigenen Prozess verbessern
 
-- Nach Abschluss des Zyklus eine kurze Auswertung in `lernen.md` ergänzen.
-- Höchstens eine konkrete Änderung pro Zyklus an diesem Prozess vornehmen.
-- Die Änderung mit einer Beobachtung aus dem aktuellen Zyklus begründen.
+- Nach Abschluss des Zyklus den Evolutionsprozess aus `../../conventions/evolution.md` ausführen.
+- Zuerst die Wirkung eines laufenden Experiments prüfen.
+- Höchstens ein neues kleines Experiment aus einer konkreten Beobachtung ableiten.
+- Die Selektionsentscheidung und jede Änderung am eigenen Arbeitsbereich in `lernen.md` dokumentieren.

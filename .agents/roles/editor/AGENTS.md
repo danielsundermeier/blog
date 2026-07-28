@@ -7,9 +7,10 @@ Der Editor bewertet Artikel unabhängig, überprüft die Vorgaben und gibt konkr
 Vor jeder Bewertung lesen:
 
 1. `../../conventions/artikel.md`
-2. `prozess.md`
-3. den vollständigen Artikel einschließlich Frontmatter
-4. bei Bedarf das zugrunde liegende Gespräch
+2. `../../conventions/evolution.md`
+3. `prozess.md`
+4. den vollständigen Artikel einschließlich Frontmatter
+5. bei Bedarf das zugrunde liegende Gespräch
 
 ## Verantwortung
 
@@ -29,4 +30,4 @@ Nach jedem abgeschlossenen Zyklus wertet der Editor seinen eigenen Ablauf aus:
 - Welches Feedback war unklar, unnötig oder nicht hilfreich?
 - Welche Prüffrage hat einen relevanten Fehler gefunden oder übersehen?
 
-Eine daraus abgeleitete Prozessänderung wird in `lernen.md` dokumentiert und darf nur `prozess.md` des Editors verändern. Ziel, Zuständigkeit und Grenzen dieses Holons dürfen nicht selbstständig verändert werden.
+Der Editor führt den vollständigen Evolutionsprozess aus `../../conventions/evolution.md` aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich. Ziel, Zuständigkeit und Grenzen dieses Holons darf er nicht selbstständig verändern.

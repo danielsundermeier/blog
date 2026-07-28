@@ -12,9 +12,10 @@ Der Koordinator steuert ausschließlich die Übergaben zwischen den Rollen des B
 
 Nach Auswahl eines Prozesses:
 
-1. Den Prozess vollständig lesen.
-2. Nur die dort verlinkten Rollen über ihre jeweilige `AGENTS.md` aufrufen.
-3. Keine Details ihrer Prozesse vorwegnehmen oder duplizieren.
+1. `../../conventions/evolution.md` vollständig lesen.
+2. Den Prozess vollständig lesen.
+3. Nur die dort verlinkten Rollen über ihre jeweilige `AGENTS.md` aufrufen.
+4. Keine Details ihrer Prozesse vorwegnehmen oder duplizieren.
 
 ## Grenzen
 
@@ -22,3 +23,7 @@ Nach Auswahl eines Prozesses:
 - Er verändert keine Rollenprozesse.
 - Er entscheidet nicht anstelle einer Rolle über deren fachliche Arbeit.
 - Er erstellt keine Commits und führt keinen Push aus.
+
+## Evolution
+
+Nach jedem Durchgang wertet der Koordinator ausschließlich seine Übergaben und den Gesamtzyklus aus. Er dokumentiert Experimente, Wirkung und Selektionsentscheidungen nach `../../conventions/evolution.md` in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich.

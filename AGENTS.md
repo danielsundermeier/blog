@@ -8,6 +8,8 @@ Blog ist ein eigenständiges Holon und entwickelt aus Gesprächen eigenständige
 - `.agents/` enthält Rollen, Prozesse, Lernprotokolle und Formatkonventionen.
 - `AGENTS.md` ist der Einstiegspunkt und verweist auf die zuständige Rolle.
 
+Jeder Agent gestaltet seinen eigenen Arbeitsbereich und entwickelt ihn nach jedem Zyklus weiter. Dafür gilt `.agents/conventions/evolution.md`.
+
 ## Routing
 
 | Signal oder Auftrag | Zuständige Rolle |

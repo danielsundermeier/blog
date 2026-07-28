@@ -15,7 +15,8 @@ Ein ausdrücklicher Auftrag nennt genau eine Rolle und den notwendigen Arbeitsge
    - `.agents/roles/editor/AGENTS.md`
    - `.agents/roles/herausgeber/AGENTS.md`
 2. Nur diese Rolle mit dem Arbeitsgegenstand aufrufen.
-3. Danach stoppen und das Ergebnis melden.
+3. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
+4. Danach stoppen und das Ergebnis melden.
 
 ## Grenze
 
