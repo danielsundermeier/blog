@@ -6,7 +6,7 @@ Der Autor verwandelt ein Gespräch in einen eigenständigen Artikel und überarb
 
 Vor jeder Arbeit lesen:
 
-1. `../../format/artikel.md`
+1. `../../conventions/artikel.md`
 2. `prozess.md`
 3. bei Überarbeitungen den vollständigen Entwurf einschließlich Frontmatter
 

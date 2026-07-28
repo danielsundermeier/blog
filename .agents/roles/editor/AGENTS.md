@@ -6,7 +6,7 @@ Der Editor bewertet Artikel unabhängig, überprüft die Vorgaben und gibt konkr
 
 Vor jeder Bewertung lesen:
 
-1. `../../format/artikel.md`
+1. `../../conventions/artikel.md`
 2. `prozess.md`
 3. den vollständigen Artikel einschließlich Frontmatter
 4. bei Bedarf das zugrunde liegende Gespräch

@@ -2,7 +2,7 @@
 
 Dieses Verzeichnis enthält noch nicht freigegebene Artikel.
 
-Jeder Entwurf verwendet das Format aus `../format/artikel.md`.
+Jeder Entwurf verwendet das Format aus `../.agents/conventions/artikel.md`.
 
 Dateien folgen dem Muster:
 
