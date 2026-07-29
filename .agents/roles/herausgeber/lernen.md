@@ -83,3 +83,28 @@ Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb un
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Der bestehende Prozess deckte sowohl die frühere Blockade als auch die spätere Fortsetzung vollständig ab.
+## 2026-07-30 – Widerstand als Diagnosewerkzeug
+
+### Beobachtung und Daten
+
+Der Entwurf war formal gültig, besaß eine Überschrift erster Ebene und war mit `status: freigabe` in der ersten Iteration veröffentlicht worden. Der 30. Juli 2026 in Europe/Berlin war im Blog-Stamm bereits belegt; der 31. Juli 2026 war der erste freie Kalendertag. Im Arbeitsbaum lagen neben den zyklusbezogenen Änderungen auch unabhängige Änderungen aus einem anderen Artikelzyklus vor.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die kalendertägliche Konfliktprüfung bestimmte den unmittelbar folgenden freien Tag. Die Herkunftsprüfung machte zugleich sichtbar, dass nur der neue Artikel und die eindeutig diesem Zyklus zugehörigen Teile der Lernprotokolle in den Commit aufgenommen werden dürfen.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der bestehende Prozess deckte Terminwahl und Abgrenzung in einem gemischt veränderten Arbeitsbaum vollständig ab.

@@ -83,3 +83,28 @@ Keine. Die bestehenden Regeln haben die zentrale Herausforderung dieses Entwurfs
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Zunächst soll späteres Editor-Feedback zeigen, ob die Übergangsprüfung auch aus externer Sicht zu einer lückenlosen Dramaturgie geführt hat.
+## 2026-07-29 – Widerstand als Diagnosewerkzeug
+
+### Beobachtung und Daten
+
+Das Gespräch enthielt eine starke allgemeine Deutung: Wenn sich ein Weg schwer und sumpfig anfühlt, liegt die Lösung möglicherweise nicht an der Wurzel. Das konkrete API-Beispiel zeigte jedoch genauer, woran sich diese Vermutung festmachen ließ: Mehrere voneinander unabhängige Grenzen widersprachen derselben Grundannahme, während Workarounds die Komplexität erhöhten, ohne eine Grenze dauerhaft aufzulösen.
+
+### Laufendes Experiment
+
+Beim ersten Entwurf jeden Übergang darauf prüfen, ob der vorherige Gedanke den nächsten tatsächlich begründet und ob persönliche Maßstäbe als solche erkennbar bleiben.
+
+### Erkannte Wirkung
+
+Die Unterscheidung zwischen einem einzelnen schwierigen Abschnitt und systemischem Widerstand ließ sich aus den konkreten API-Grenzen entwickeln. Dadurch folgt die Heuristik aus der Erfahrung, statt am Anfang als fertige Lehre zu stehen. Die allgemeinere Aussage bleibt mit „vielleicht“, „lohnt sich“ und der Möglichkeit eines unvermeidbar schwierigen Abschnitts begrenzt. Editor-Feedback liegt noch nicht vor; die Wirkung auf Lesbarkeit und Dramaturgie ist daher noch nicht bestätigt.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die bestehenden Regeln zur Erkenntnisdramaturgie, zu lückenlosen Übergängen und zur Begrenzung kategorischer Aussagen erfassen die Anforderungen dieses Entwurfs.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Zunächst soll Editor-Feedback zeigen, ob die Unterscheidung zwischen Ausdauer und Modellkorrektur konkret genug ist, ohne als starre Entscheidungsregel zu wirken.

@@ -83,3 +83,28 @@ Nur die ausstehende Artikelbewertung und dieser Lernprotokolleintrag wurden gesp
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Die frühere Blockade war ein Zugriffsproblem und liefert keine fachlichen Daten für eine Änderung des Editor-Prozesses.
+## 2026-07-30 – Widerstand als Diagnosewerkzeug
+
+### Beobachtung und Daten
+
+Der Entwurf war in Iteration 1 lesbar, verständlich und ohne wesentliche Änderungsanforderung. Vier voneinander unabhängige API-Grenzen bereiteten die zentrale Unterscheidung zwischen einem lokalen Hindernis und systemischem Widerstand konkret vor. Der Text begrenzte diese Heuristik anschließend mehrfach: Ein passender Weg darf weiterhin Arbeit verlangen, ein schwieriger Abschnitt kann unvermeidbar sein und das neue Puzzleteil ist nur „vermutlich“ besser, nicht endgültig richtig.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die bestehenden Prüffragen zur Erkenntnisdramaturgie, zu unnötig alternativlosen Gegensätzen und zum Geltungsumfang zentraler Aussagen reichten aus, um den freigabefähigen Stand zu beurteilen. Besonders die Gegenprüfung, ob der Text Anstrengung pauschal als falschen Weg deutet, bestätigte die Funktion der Berg-Passage und der späteren Einschränkungen. Es liegen keine Daten zur Wirkung eines laufenden Experiments vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die vorhandenen Prüffragen fanden den zentralen möglichen Fehlschluss und bestätigten, dass der Text ihn bereits ausreichend differenziert.
