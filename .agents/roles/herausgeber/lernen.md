@@ -57,3 +57,29 @@ Keine. Der bestehende Prozess schreibt bereits die Herkunftsprüfung und das ein
 ### Erwartete Verbesserung
 
 Keine zusätzliche Regel erforderlich. Die vorhandene Trennung nach nachweisbarer Zykluszugehörigkeit schützt den Commit auch bei einem bereits veränderten Arbeitsbaum.
+
+## 2026-07-29 – Wenn Ruhe sichtbar wird
+
+### Beobachtung und Daten
+
+Der in einem früheren Durchgang blockierte Entwurf lag im fortgesetzten Zyklus mit persistiertem `status: freigabe` vor. Der heutige Tag in Europe/Berlin war im Blog-Stamm frei. Neben dem Artikel waren ausschließlich Lernprotokolle verändert, deren Einträge den aktuellen Artikelzyklus ausdrücklich benennen.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die erneute formale Statusprüfung verhinderte im ersten Durchgang eine Veröffentlichung ohne persistierte Freigabe und erlaubte sie nach Behebung des Blockers ohne inhaltlichen Eingriff. Die Herkunftsprüfung machte die fünf zum Zyklus gehörenden Lernprotokolle eindeutig abgrenzbar.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der bestehende Prozess deckte sowohl die frühere Blockade als auch die spätere Fortsetzung vollständig ab.

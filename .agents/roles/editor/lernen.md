@@ -57,3 +57,29 @@ Keine. Die bestehenden Prüffragen zur lückenlosen Gedankenfolge, zu Übergäng
 ### Erwartete Verbesserung im nächsten Zyklus
 
 Der Editor soll weiterhin wenige kausale Lücken und den Geltungsumfang zentraler Aussagen priorisieren. Besonders hilfreich war, nicht nur den fehlenden Übergang zu benennen, sondern den gedanklichen Zweck der Ergänzung zu beschreiben, ohne eine Ersatzfassung vorzugeben.
+
+## 2026-07-29 – Wenn Ruhe sichtbar wird
+
+### Beobachtung und Daten
+
+Der Entwurf war in der ersten Iteration lesbar, verständlich und ohne wesentliche Änderungsanforderung. Die Kernaussage entwickelte sich aus einer konkreten Begegnungsbeobachtung, unterschied persönliche Erfahrung von möglicher Erklärung und schloss den dramaturgischen Kreis. Im ersten Durchgang konnte die Bewertung trotz abgeschlossener Prüfung nicht in Frontmatter und Lernprotokoll gespeichert werden; im fortgesetzten Durchgang gelang die Persistierung ohne inhaltliche Neubewertung.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die vorhandenen Prüffragen zu Geltungsumfang, Gedankenkette und Rückkehr zur Anfangsbeobachtung reichten aus, um den freigabefähigen Stand konkret zu begründen. Es liegen keine Daten zur Wirkung eines laufenden Experiments vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die ausstehende Artikelbewertung und dieser Lernprotokolleintrag wurden gespeichert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die frühere Blockade war ein Zugriffsproblem und liefert keine fachlichen Daten für eine Änderung des Editor-Prozesses.
