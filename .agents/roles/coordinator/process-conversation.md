@@ -13,7 +13,14 @@ Ein vollständiges Gespräch ist referenziert.
 5. Bei `status: freigabe` oder `status: abgeschlossen` den Entwurf über `.agents/roles/herausgeber/AGENTS.md` übergeben.
 6. Bei `status: blockiert` den Herausgeber nicht aufrufen und den Grund melden.
 7. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
-8. Mit veröffentlichtem Artikel, Commit und Push oder dem konkreten Blocker abschließen.
+8. Nach einer Veröffentlichung eine Creator-Rückgabe mit Artikelpfad,
+   referenziertem Gespräch und den konkreten Beobachtungen von Autor und Editor
+   erstellen. Abgeleitete Formulierungen nicht als neue unabhängige Quelle
+   darstellen.
+9. Die Creator-Rückgabe dem aufrufenden Holon als Teil des Ergebnisses
+   übergeben. Der Blog-Koordinator verändert d15r oder die Soul nicht selbst.
+10. Mit veröffentlichtem Artikel, Commit und Push, Creator-Rückgabe oder dem
+    konkreten Blocker abschließen.
 
 ## Grenze
 

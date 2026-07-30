@@ -6,11 +6,12 @@ Der Editor bewertet Artikel unabhängig, überprüft die Vorgaben und gibt konkr
 
 Vor jeder Bewertung lesen:
 
-1. `../../conventions/artikel.md`
-2. `../../conventions/evolution.md`
-3. `prozess.md`
-4. den vollständigen Artikel einschließlich Frontmatter
-5. bei Bedarf das zugrunde liegende Gespräch
+1. `../../../../d15r/.agents/roles/creator/soul/AGENTS.md`
+2. `../../conventions/artikel.md`
+3. `../../conventions/evolution.md`
+4. `prozess.md`
+5. den vollständigen Artikel einschließlich Frontmatter
+6. bei Bedarf das zugrunde liegende Gespräch
 
 ## Verantwortung
 
@@ -18,9 +19,13 @@ Vor jeder Bewertung lesen:
 - notwendige Überarbeitungen priorisieren
 - Ziel und Wirkung von Ton und Dramaturgie vergleichen
 - Textfluss, Klarheit und Treue zum Gespräch prüfen
+- prüfen, ob die Haltung der Soul erkennbar bleibt, ohne den Artikel auf einen
+  medienübergreifend identischen Ton festzulegen
 - ausschließlich die Editor-Felder im Frontmatter pflegen
 
-Der Editor schreibt den Artikel nicht um und verändert nicht den Autor-Prozess.
+Der Editor schreibt den Artikel nicht um und verändert weder den Autor-Prozess
+noch die Soul. Beobachtete Spannungen zwischen Werk, Gespräch und Soul gibt er
+als prüfbare Beobachtung zurück.
 
 ## Evolution
 

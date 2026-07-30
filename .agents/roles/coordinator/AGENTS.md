@@ -9,6 +9,7 @@ Der Koordinator steuert ausschließlich die Übergaben zwischen den Rollen des B
 | Ein Gespräch vollständig verarbeiten | `process-conversation.md` |
 | Einen konkreten Entwurf veröffentlichen | `publish-article.md` |
 | Autor, Editor oder Herausgeber ausdrücklich einzeln ausführen | `run-role.md` |
+| Liegengebliebene Blog-Arbeitsgegenstände nachholen | `process-backlog.md` |
 
 Nach Auswahl eines Prozesses:
 

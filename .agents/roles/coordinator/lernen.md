@@ -2,6 +2,47 @@
 
 Hier entwickelt der Koordinator ausschließlich die Übergaben innerhalb des Blog-Holons weiter.
 
+## 2026-07-30 – Nachholsignal für liegengebliebene Arbeitsgegenstände
+
+### Beobachtung und Daten
+
+Ein menschlicher Nachholauftrag konnte an der Blog-Einstiegsschnittstelle keinem
+Koordinatorprozess zugeordnet werden. Die vorhandenen Prozesse deckten ein
+referenziertes Gespräch, genau einen zu veröffentlichenden Entwurf und einen
+ausdrücklichen Einzelrollenauftrag ab. Die erste Inventur fand keinen Entwurf
+unter `drafts/`; alle acht Artikel mit Status-Metadaten waren bereits
+veröffentlicht. Die fehlende Route bestand dennoch unabhängig vom leeren
+Rückstand.
+
+### Laufendes Experiment
+
+Kein Experiment.
+
+### Erkannte Wirkung
+
+Die fehlende Route zwang das aufrufende Holon zu einer Zuständigkeitsfrage,
+obwohl nur der Blog-Koordinator die internen Statusübergaben festlegen darf. Für
+die Wirkung der neuen Route liegen noch keine Daten aus einem tatsächlichen
+Rückstand vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Die Blog-Einstiegsschnittstelle und das Routing des Koordinators erkennen nun
+ausdrückliche Nachholaufträge. Der neue Prozess `process-backlog.md` ordnet
+Arbeitsgegenstände ausschließlich anhand ihres vorhandenen Artikelstatus der
+zuständigen Rolle zu und lässt jede Rolle ihren eigenen Prozess ausführen.
+
+### Neues Experiment und erwartete Wirkung
+
+Die statusbasierte Nachholroute wird als kleines Experiment eingeführt. Erwartet
+wird, dass Foundation breite Nachholsignale ohne Kenntnis interner Blogrollen
+übergeben kann und der Blog-Koordinator jeden Rückstand nachvollziehbar ab seinem
+persistierten Status fortsetzt.
+
 ## Eintrag
 
 ```markdown
