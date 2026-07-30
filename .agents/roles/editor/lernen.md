@@ -83,6 +83,137 @@ Nur die ausstehende Artikelbewertung und dieser Lernprotokolleintrag wurden gesp
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Die frühere Blockade war ein Zugriffsproblem und liefert keine fachlichen Daten für eine Änderung des Editor-Prozesses.
+
+## 2026-07-29 – Was wir schön finden, wollen wir behalten
+
+### Beobachtung und Daten
+
+Der Entwurf war inhaltlich eng am zugrunde liegenden Gespräch und hielt dessen ausdrückliche Ausschlussregel ein: Der gesamte Meta-Teil über den Diskussions-Workflow blieb außerhalb des Artikels. Die wesentliche Schwäche lag in der Erkenntnisdramaturgie. Bereits der dritte Absatz des Einstiegs nannte mit Passung, Gleichgewicht, Leichtigkeit und Energiefluss fast die vollständige spätere Erkenntnis, obwohl die folgenden Beispiele den Leser erst dorthin führen sollten. Ein zweiter, kleinerer Bruch entstand beim schnellen Maßstabswechsel von Automatisierung zu Grundsicherung.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die bestehenden Prüffragen dazu, ob die Erkenntnis im Verlauf entsteht und jeder Gedanke den nächsten vorbereitet, fanden beide relevanten Punkte. Die ausdrückliche Prüfung auf Gesprächstreue verhinderte außerdem, dass die im Gespräch umfangreiche Prozess-Metaebene irrtümlich als Artikelinhalt bewertet oder verlangt wurde. Es liegen keine Daten zur Wirkung eines laufenden Experiments vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die vorhandenen Prüffragen deckten sowohl die dramaturgische Vorwegnahme als auch den zu schnellen Übergang zuverlässig auf.
+
+## 2026-07-29 – Was wir schön finden, wollen wir behalten, Iteration 2
+
+### Beobachtung und Daten
+
+Beide priorisierten Änderungswünsche aus Iteration 1 führten zu sichtbaren Verbesserungen. Der Einstieg nennt Passung, Gleichgewicht, Leichtigkeit und Energiefluss nicht mehr vorab, sondern bleibt bei der offenen Beobachtung, dass sehr verschiedene Dinge mit demselben Wort als schön bezeichnet werden. Die Grundsicherung wird nun ausdrücklich als Gedankenexperiment und als veränderte Bedingung eingeführt, unter der Automatisierung als gewonnene Freiheit erfahrbar werden könnte. Die Waschmaschine blieb als roter Faden erhalten, der Schluss schließt weiterhin den Kreis, und der Artikelkörper enthält unverändert keinen Meta-Teil zum Diskussions-Workflow.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Das Feedback aus Iteration 1 war konkret genug, um die gewünschten Funktionen der Überarbeitung sichtbar herzustellen, ohne Inhalt oder Formulierungen vorzugeben. Besonders wirksam war die Unterscheidung zwischen der Aussage zur Grundsicherung und ihrer dramaturgischen Funktion als Bedingung eines Gedankenexperiments. Die bestehenden Prüffragen bestätigten, dass keine wesentliche Änderung mehr erforderlich ist.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die Wirkung des vorhandenen Feedbackansatzes ist in dieser Überarbeitung direkt sichtbar; zusätzliche Prozessregeln sind nicht erforderlich.
+
+## 2026-07-30 – Das Bewusstsein meiner Philosophie
+
+### Beobachtung und Daten
+
+Der Entwurf entwickelte seine zentrale Erkenntnis klar aus einer konkreten persönlichen Beobachtung: Wiederholtes Aufhören trotz vorhandenen Wissens führt über die begrenzte Passung fremder Autoren und die Ermüdung durch identische Wiederholung zur Idee einer variierenden eigenen Stimme. Die stärkste Formulierung „Das Bewusstsein meiner Philosophie“ stand jedoch bereits ungefähr zwei Drittel vor Schluss. Danach folgten mit Engelchen, Flow-Korridor, Aufwärtsspirale, optimalem Leben und „Erkenne dich selbst“ fünf weitere im Gespräch belegte Deutungsrahmen. Jeder war für sich verständlich, gemeinsam verbreiterten sie die Dramaturgie nach ihrem Höhepunkt.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die vorhandenen Prüffragen dazu, ob jeder Abschnitt zur Kernaussage beiträgt, die Erkenntnis im Verlauf entsteht und der Schluss den Kreis schließt, machten die Ursache der notwendigen Überarbeitung sichtbar. Entscheidend war die Unterscheidung zwischen Gesprächstreue und dramaturgischer Notwendigkeit: Ein Gedanke kann vollständig aus dem Gespräch stammen und den Artikel trotzdem unnötig verbreitern. Es liegen keine Daten zur Wirkung eines laufenden Experiments vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die bestehenden Prüffragen erfassten sowohl die tragfähige Hauptlinie als auch die konkurrierenden Schlussmodelle; zusätzliche Prozessregeln sind nicht erforderlich.
+
+## 2026-07-30 – Das Bewusstsein meiner Philosophie, Iteration 2
+
+### Beobachtung und Daten
+
+Beide priorisierten Änderungswünsche aus Iteration 1 wurden umgesetzt. „Im richtigen Moment“ wurde zu „gerade in den entscheidenden Momenten“ präzisiert und bezeichnet das problematische Vergessen nun eindeutig. Nach dem Höhepunkt der emergenten Persönlichkeit wurde der Flow-Korridor vollständig entfernt. Das Engelchen bleibt als kurzes Beziehungsbild; anschließend führt der Text über die wechselseitige Entwicklung von Philosophie, Autor und gelebter Erfahrung direkt zur Selbsterkenntnis und zur Anfangsbeobachtung zurück.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Das Feedback aus Iteration 1 führte zu einer sichtbaren Verdichtung, ohne die Kernaussage oder die Gesprächstreue zu schwächen. Besonders die Benennung konkurrierender Deutungsrahmen war wirksam: Der Autor konnte einen Nebenstrang entfernen und die übrigen Bilder nach ihrer dramaturgischen Funktion ordnen. Die erneute Prüfung bestätigt, dass keine wesentliche Überarbeitung mehr erforderlich ist.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die Wirkung des vorhandenen Feedbackansatzes ist in dieser Überarbeitung direkt sichtbar; zusätzliche Prozessregeln sind nicht erforderlich.
+
+## 2026-07-30 – Software, die sich selbst kennenlernt
+
+### Beobachtung und Daten
+
+Der Entwurf war in der ersten Iteration lesbar, verständlich und ohne wesentliche Änderungsanforderung. Die konkrete GitHub-Beobachtung führte schrittweise über die Vorläufigkeit von Plänen zu dem Wissen, das nach jeder Änderung über die bearbeiteten Holons zurückbleibt. Die Ausweitung auf den Organismus folgte daraus, ohne die späteren Nebenstränge des Gesprächs zu Wirtschaft und gesellschaftlicher Entwicklung aufnehmen zu müssen.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die Prüffragen zu Gesprächstreue, Erkenntnisdramaturgie und Geltungsumfang reichten aus. Besonders die begrenzenden Formulierungen zu Evolution und Verbesserung verhinderten, dass aus dem persönlichen Modell eine garantierte oder allgemeingültige Entwicklung behauptet wurde.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Artikels und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Es zeigte sich kein ungedeckter Prüfbedarf.
+
 ## 2026-07-30 – Widerstand als Diagnosewerkzeug
 
 ### Beobachtung und Daten
@@ -108,3 +239,55 @@ Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktual
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Die vorhandenen Prüffragen fanden den zentralen möglichen Fehlschluss und bestätigten, dass der Text ihn bereits ausreichend differenziert.
+
+## 2026-07-30 – Die Realität sagt selten sofort
+
+### Beobachtung und Daten
+
+Der Entwurf entwickelte das Muster von der konkreten Pause an der Weser über Festhalten und künstliche Dringlichkeit bis zu Routine und Prozessvertrauen klar und schloss den dramaturgischen Kreis. Die wesentliche Abweichung vom zugrunde liegenden Gespräch lag nicht in den Beispielen oder der Tonlage, sondern in dessen letzter Präzisierung: Der Artikel beschrieb die Wahl des passenden Werkzeugs weiterhin als Schritt nach klarer Wahrnehmung, obwohl im Gespräch ausdrücklich festgehalten wurde, dass aus unverzerrter Wahrnehmung die passende Handlung offensichtlich folgt und kein zusätzlicher Entscheidungsakt nötig ist.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die bestehende Prüfung auf Gesprächstreue und lückenlose Gedankenfolge machte die Abweichung sichtbar. Entscheidend war, nicht nur wiederkehrende Motive des langen Gesprächs zu vergleichen, sondern seine spätere Korrektur als maßgeblich für die endgültige Aussage zu behandeln. Es liegen keine Daten zur Wirkung eines laufenden Experiments vor.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die vorhandene Prüffrage zur Treue zum Gespräch fand den relevanten Unterschied; eine zusätzliche Prozessregel ist derzeit nicht erforderlich.
+
+## 2026-07-30 – Die Realität sagt selten sofort, Iteration 2
+
+### Beobachtung und Daten
+
+Der einzige priorisierte Änderungswunsch aus Iteration 1 wurde vollständig umgesetzt. Der neue Abschnitt „Wenn der Kontext die Handlung zeigt“ trennt nun klar zwischen zwei Fällen: Bei unverzerrter Wahrnehmung zeigt der Kontext unmittelbar, was passt; bewusstes Prüfen wird nur dann nötig, wenn Angst, Knappheit oder Getriebenheit das Bild trüben. Damit entspricht der Artikel der letzten ausdrücklichen Präzisierung des Gesprächs, ohne die vorher entwickelte Bedeutung von Kampf und Flucht als kontextabhängigem Werkzeug zu verlieren. Einstieg, Beispiele, Routine-Passage und Rückkehr zur Weser blieben in ihrer Funktion erhalten.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Das Feedback aus Iteration 1 führte zu einer sichtbaren und eng begrenzten Verbesserung der Kernaussage. Besonders wirksam war die genaue Benennung des unbeabsichtigten zusätzlichen Entscheidungsakts und der gewünschten logischen Funktion, ohne eine Ersatzformulierung vorzugeben. Die Überarbeitung löste den Einwand, ohne neue wesentliche Brüche zu erzeugen.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Die Wirkung des vorhandenen Feedbackansatzes ist in dieser Überarbeitung direkt sichtbar; zusätzliche Prozessregeln sind nicht erforderlich.
