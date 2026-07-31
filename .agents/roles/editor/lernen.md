@@ -136,6 +136,32 @@ Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktual
 
 Kein neues Experiment. Die Wirkung des vorhandenen Feedbackansatzes ist in dieser Überarbeitung direkt sichtbar; zusätzliche Prozessregeln sind nicht erforderlich.
 
+## 2026-07-31 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Der Entwurf war in Iteration 1 lesbar, verständlich und ohne wesentliche Änderungsanforderung. Er führte vom konkreten Unbehagen beim Eigenheim über die Unterscheidung zwischen Erhaltung und wachsender Fähigkeit zur Rolle von Routine als Sicherheit für offene Aufgaben. Die mögliche Fehlinterpretation, notwendige Pflege oder Wiederholung grundsätzlich abzuwerten, wurde durch Garten, Körper und Beziehungen im Artikel selbst begrenzt.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die bestehenden Prüffragen zu Erkenntnisdramaturgie, Geltungsumfang und unnötig alternativlosen Gegensätzen reichten aus. Besonders die Gegenprüfung gegen einen falschen Gegensatz bestätigte, dass die Einschränkungen die Kernaussage präzisieren und nicht als nachträgliche Absicherung wirken. Die Rückkehr zum programmierbaren Haus schließt den Bogen ohne die gesellschaftlichen oder biografischen Nebenstränge des Gesprächs zu benötigen.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Es zeigte sich kein ungedeckter Prüfbedarf.
+
 ## 2026-07-30 – Das Bewusstsein meiner Philosophie
 
 ### Beobachtung und Daten

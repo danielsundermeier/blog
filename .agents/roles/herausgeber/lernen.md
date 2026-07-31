@@ -213,3 +213,29 @@ Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb un
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Der bestehende Prozess deckte Terminwahl, Formalprüfung und lokale Veröffentlichung unter der ausdrücklich engeren Git-Grenze vollständig ab.
+
+## 2026-07-31 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Der Entwurf war formal gültig, besaß eine Überschrift erster Ebene und war vom Editor in Iteration 1 freigegeben. Der 31. Juli sowie der 1., 2. und 3. August 2026 waren im Blog-Stamm bereits belegt; der 4. August 2026 war der früheste freie Kalendertag. Die zyklusbezogenen Änderungen an den Lernprotokollen von Autor und Editor waren eindeutig dem veröffentlichten Artikel zuzuordnen.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die Prüfung der vorhandenen Veröffentlichungsdaten bestimmte den nächstmöglichen freien Termin ohne künstliche Lücke. Die explizite Herkunftsprüfung begrenzt den anstehenden Commit auf den Artikel und die drei Lernprotokolle dieses Zyklus.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der bestehende Ablauf deckt Terminwahl, formale Freigabe und die Abgrenzung der zu committenden Dateien ab.

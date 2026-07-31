@@ -244,3 +244,29 @@ Keine Prozessänderung. Nur dieser Lernprotokolleintrag wurde ergänzt.
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Der bestehende Ablauf deckte einen langen Gesprächsstoff, eine gezielte Überarbeitung und die lokale Veröffentlichung vollständig ab.
+
+## 2026-07-31 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Autor, Editor und Herausgeber wurden in der vorgesehenen Reihenfolge aufgerufen. Aus dem sehr langen Gespräch wählte der Autor die neue konkrete Entwicklung rund um Erhaltungsarbeit und lernende Systeme; der Editor gab die erste Iteration ohne Änderungswunsch frei. Der Herausgeber veröffentlichte den Artikel für den frühesten freien Tag, den 4. August 2026.
+
+### Laufendes Experiment
+
+Die statusbasierte Nachholroute wird als kleines Experiment eingeführt.
+
+### Erkannte Wirkung
+
+Für die Nachholroute liegen weiterhin keine neuen Daten vor. Der reguläre Gesprächsprozess trennte die Verantwortlichkeiten sauber: Der Autor verdichtete, der Editor bewertete und der Herausgeber veröffentlichte ohne Inhaltsänderung. Die drei Rollen dokumentierten ihre zyklusbezogenen Erfahrungen getrennt.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine Prozessänderung. Nur dieser Lernprotokolleintrag wurde ergänzt.
+
+### Neues Experiment und erwartete Wirkung
+
+Das laufende Experiment zur statusbasierten Nachholroute bleibt unverändert. Es soll bei einem tatsächlichen Rückstand zeigen, ob der Übergabepunkt anhand des Artikelstatus zuverlässig bestimmbar ist.

@@ -291,3 +291,29 @@ Keine Prozessänderung. Die laufende Übergangsprüfung wird in ihrer Anwendung 
 ### Neues Experiment und erwartete Wirkung
 
 Bei der Übergangsprüfung zusätzlich fragen, ob der neue Abschnitt eine neue notwendige Funktion erfüllt oder nur einen bereits erreichten Gedanken mit einem weiteren Deutungsrahmen erneut beschreibt. Erwartet wird, dass umfangreiche Gespräche im nächsten Entwurf fokussierter enden, ohne relevante Gedanken vorschnell zu entfernen.
+
+## 2026-07-31 – Ein Haus, das man programmieren kann
+
+### Beobachtung und Daten
+
+Das Gespräch enthielt persönliche Verletzlichkeit, Gesellschaftsvision, Routine, Automatisierung und die Rolle des ICM. Die eigenständige neue Entwicklung lag jedoch in einem konkreten Vergleich: Ein Haus wird erst dann attraktiv, wenn seine unvermeidliche Erhaltung weitgehend zuverlässig getragen ist und die eigene Energie in Verbesserungen fließen kann. Der Entwurf begrenzte sich auf diese Linie und nahm nur Routine als notwendige Anwendung auf.
+
+### Laufendes Experiment
+
+Bei der Übergangsprüfung zusätzlich fragen, ob der neue Abschnitt eine neue notwendige Funktion erfüllt oder nur einen bereits erreichten Gedanken mit einem weiteren Deutungsrahmen erneut beschreibt.
+
+### Erkannte Wirkung
+
+Der Entwurf verwendet weder die biografische Tiefenarbeit noch die gesellschaftliche Vision als weitere Deutungsrahmen nach der Kernaussage. Die Gegenbeispiele Garten, Körper und Beziehungen erfüllen eine andere notwendige Funktion: Sie begrenzen die Aussage, damit aus der Abneigung gegen Erhaltungsarbeit keine Abwertung aller Wiederholung wird. Der Editor hat die Fokussierung, die Begrenzungen und den dramaturgischen Kreis ohne Änderungswunsch freigegeben.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine. Die laufende Übergangsprüfung hat sowohl die Verdichtung eines langen Gesprächs als auch die notwendige Gegenbewegung unterstützt.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Weitere Zyklen sollen zeigen, ob die Prüfung auch bei weniger klaren Gesprächsschwerpunkten zwischen hilfreicher Begrenzung und unnötiger Nebenlinie unterscheidet.
