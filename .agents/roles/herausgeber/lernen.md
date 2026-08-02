@@ -239,3 +239,29 @@ Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb un
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Der bestehende Ablauf deckt Terminwahl, formale Freigabe und die Abgrenzung der zu committenden Dateien ab.
+
+## 2026-08-02 – Der wandernde Eudaimonia-Architekt
+
+### Beobachtung und Daten
+
+Der Entwurf war formal gültig, besaß eine Überschrift erster Ebene und war vom Editor in Iteration 1 freigegeben. Der 2., 3. und 4. August 2026 waren im Blog-Stamm bereits belegt; der 5. August 2026 war der früheste freie Kalendertag. Die übergeordnete Auftragsgrenze erlaubte ausschließlich die lokale Veröffentlichung und schloss Staging, Commit und Push ausdrücklich aus.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die Prüfung der vorhandenen Veröffentlichungsdaten bestimmte ohne feste Frequenz oder künstliche Lücke den unmittelbar folgenden freien Tag. Der freigegebene Entwurf konnte nach alleiniger Änderung des Status unter dem aus H1 und Datum gebildeten Zielpfad veröffentlicht werden.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur dieser Lernprotokolleintrag wurde ergänzt. Der Herausgeber-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der bestehende Prozess deckte Terminwahl, Formalprüfung und lokale Veröffentlichung unter der ausdrücklich engeren Git-Grenze vollständig ab.

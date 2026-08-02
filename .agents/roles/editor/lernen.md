@@ -136,6 +136,32 @@ Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktual
 
 Kein neues Experiment. Die Wirkung des vorhandenen Feedbackansatzes ist in dieser Überarbeitung direkt sichtbar; zusätzliche Prozessregeln sind nicht erforderlich.
 
+## 2026-08-02 – Der wandernde Eudaimonia-Architekt
+
+### Beobachtung und Daten
+
+Der Entwurf war in Iteration 1 lesbar, verständlich und ohne wesentliche Änderungsanforderung. Er begann beim konkreten Programmieren ins Blaue, unterschied den offenen vom geschlossenen Regelkreis und entwickelte daraus Präsenz als Arbeitsbedingung. Die wandernde Rolle löste die vier im Gespräch ausdrücklich benannten Spannungen auf; die Rückkehr zu Cardmonitor zeigte, dass die Distanz zu den Nutzern und nicht die fehlende eigene Nutzung das eigentliche Problem ist.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment.
+
+### Erkannte Wirkung
+
+Die bestehenden Prüffragen zu Gesprächstreue, Erkenntnisdramaturgie und falschen Gegensätzen reichten aus. Besonders die Einschränkung, dass Umsatzbeteiligung allein keine gute Beziehung garantiert, bewahrte die positive-Summen-Idee vor einer unbelegten Gleichsetzung von Anreiz und Verbundenheit. Der letzte offene Gesprächskonflikt zwischen Loslassen und Verantwortung musste nicht künstlich beantwortet werden, weil der Artikel die Rolle ausdrücklich als unfertige Möglichkeit stehen lässt.
+
+### Selektionsentscheidung
+
+Kein Experiment
+
+### Änderung im eigenen Arbeitsbereich
+
+Nur die Editor-Felder des Entwurfs und dieser Lernprotokolleintrag wurden aktualisiert. Der Editor-Prozess blieb unverändert.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Es zeigte sich kein ungedeckter Prüfbedarf.
+
 ## 2026-07-31 – Ein Haus, das man programmieren kann
 
 ### Beobachtung und Daten

@@ -270,3 +270,29 @@ Keine Prozessänderung. Nur dieser Lernprotokolleintrag wurde ergänzt.
 ### Neues Experiment und erwartete Wirkung
 
 Das laufende Experiment zur statusbasierten Nachholroute bleibt unverändert. Es soll bei einem tatsächlichen Rückstand zeigen, ob der Übergabepunkt anhand des Artikelstatus zuverlässig bestimmbar ist.
+
+## 2026-08-02 – Der wandernde Eudaimonia-Architekt
+
+### Beobachtung und Daten
+
+Autor, Editor und Herausgeber wurden in der vorgesehenen Reihenfolge aufgerufen. Der Autor konzentrierte das Gespräch auf den fehlenden unmittelbaren Kontakt zur Nutzung und die daraus entstehende Rolle des wandernden Eudaimonia-Architekten. Der Editor gab die erste Iteration ohne Änderungswunsch frei. Der Herausgeber veröffentlichte den Artikel lokal für den frühesten freien Tag, den 5. August 2026. Staging, Commit und Push waren durch die übergeordnete Auftragsgrenze ausgeschlossen.
+
+### Laufendes Experiment
+
+Die statusbasierte Nachholroute bleibt als laufendes Experiment bestehen.
+
+### Erkannte Wirkung
+
+Für die Nachholroute entstanden auch in diesem regulären Gesprächszyklus keine neuen Daten. Die Übergabekette hielt die fachlichen Zuständigkeiten getrennt und führte ohne Wiederholung oder Überarbeitung zu einem veröffentlichten Artikel. Der zunächst stockende technische Abruf der Gesprächsreferenz wurde durch die vollständige Inhaltsübergabe des aufrufenden Holons gelöst; eine Änderung des Blogprozesses war dafür nicht erforderlich.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine Prozessänderung. Nur dieser Lernprotokolleintrag wurde ergänzt.
+
+### Neues Experiment und erwartete Wirkung
+
+Das laufende Experiment zur statusbasierten Nachholroute bleibt unverändert. Es soll erst bei einem tatsächlichen Rückstand anhand beobachtbarer Übergabedaten bewertet werden.
