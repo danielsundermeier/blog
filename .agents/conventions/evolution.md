@@ -23,11 +23,12 @@ Der Agent:
 5. entfernt Regeln oder Hilfsmittel wieder, wenn sie keinen erkennbaren Nutzen bringen oder schaden,
 6. formuliert bei Bedarf genau ein neues kleines Experiment mit erwarteter Wirkung,
 7. verändert nur den eigenen Arbeitsbereich,
-8. dokumentiert Erfahrung, Entscheidung und Änderung im eigenen Lernprotokoll.
+8. hält nur eine relevante neue Erfahrung gegenstandsbezogen fest.
 
 Eine Prozessänderung ist zunächst eine Hypothese. Ihre Wirkung darf erst als bestätigt gelten, wenn ein späterer Zyklus passende Beobachtungen oder Rückmeldungen liefert. Ein einzelner Sonderfall wird nicht vorschnell zur allgemeinen Regel.
 
-Es muss nicht nach jedem Zyklus etwas geändert werden. Auch die begründete Entscheidung, den bestehenden Prozess beizubehalten, ist ein Ergebnis.
+Es muss nicht nach jedem Zyklus etwas geändert oder dokumentiert werden. Ist
+nichts Relevantes neu, endet die Auswertung ohne Lerndatei.
 
 ## Mögliche Daten
 
@@ -62,24 +63,35 @@ Ohne ausdrücklichen Auftrag darf er nicht:
 
 Beobachtet er dort Verbesserungsbedarf, übergibt er die Beobachtung an die zuständige Rolle oder den zuständigen Koordinator.
 
-## Lernprotokoll
+## Lerndateien
 
-Ein Eintrag enthält mindestens:
+Erfahrungen werden nicht an ein fortlaufendes `lernen.md` angehängt. Für einen
+Artikel oder anderen klar benannten Arbeitsgegenstand entsteht bei Bedarf im
+Rollenverzeichnis genau eine Datei unter
+`lernen/YYYY-MM-DD-<gegenstand>.md`. Mehrere Durchgänge am selben Gegenstand
+aktualisieren diese Datei, statt neue Chronikeinträge zu erzeugen.
+
+Die Datei enthält nur das gegenüber dem bereits bekannten Rollenwissen
+relevante Neue:
 
 ```markdown
-## YYYY-MM-DD – Zyklus
+# Gegenstand
 
-### Beobachtung und Daten
+## Neue Beobachtung
 
-### Laufendes Experiment
+## Selektion
 
-### Erkannte Wirkung
+Beibehalten | Anpassen | Verwerfen
 
-### Selektionsentscheidung
+## Konsequenz
 
-Beibehalten | Anpassen | Verwerfen | Kein Experiment
-
-### Änderung im eigenen Arbeitsbereich
-
-### Neues Experiment und erwartete Wirkung
+Keine | bestehendes Wissen präzisiert | neues Experiment
 ```
+
+Bereits bekannte Regeln werden nicht wiederholt. Dauerhaft gültige Erkenntnis
+wird an der zuständigen Stelle konsolidiert, indem eine bestehende Aussage
+präzisiert, ersetzt oder entfernt wird. Die Lerndatei bleibt als Herkunft des
+einzelnen Arbeitsgegenstands erhalten, wird aber nicht standardmäßig geladen.
+
+Bestehende `lernen.md` sind historische Archive. Sie werden nicht erweitert
+und nur bei einer konkreten historischen Frage gelesen.

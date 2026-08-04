@@ -40,7 +40,9 @@ Das Format lautet:
 
 - Vor dem Staging den Git-Status prüfen.
 - Den veröffentlichten Artikel und, falls die Quelldatei bereits versioniert war, deren Verschiebung aus `drafts/` aufnehmen.
-- Zusätzlich alle `prozess.md`- und `lernen.md`-Dateien aufnehmen, die eine Rolle nachweislich während dieses Artikelzyklus verändert hat.
+- Zusätzlich alle `prozess.md`- und gegenstandsbezogenen Dateien unter
+  `lernen/` aufnehmen, die eine Rolle nachweislich während dieses
+  Artikelzyklus verändert hat.
 - Weitere Dateien dürfen nur aufgenommen werden, wenn ihre Änderung unmittelbar aus diesem Zyklus stammt und für dessen Prozess erforderlich ist.
 - Vorhandene Änderungen, deren Herkunft nicht eindeutig diesem Zyklus zugeordnet werden kann, nicht aufnehmen.
 - Jede aufzunehmende Datei einzeln stagen; niemals pauschal das gesamte Repository stagen.

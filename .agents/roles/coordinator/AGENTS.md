@@ -27,4 +27,7 @@ Nach Auswahl eines Prozesses:
 
 ## Evolution
 
-Nach jedem Durchgang wertet der Koordinator ausschließlich seine Übergaben und den Gesamtzyklus aus. Er dokumentiert Experimente, Wirkung und Selektionsentscheidungen nach `../../conventions/evolution.md` in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich.
+Nach jedem Durchgang wertet der Koordinator ausschließlich seine Übergaben und
+den Gesamtzyklus aus. Nur relevante neue Erfahrung hält er nach
+`../../conventions/evolution.md` gegenstandsbezogen unter `lernen/` fest.
+`lernen.md` bleibt ein historisches Archiv.

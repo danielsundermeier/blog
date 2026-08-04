@@ -30,4 +30,8 @@ Er wird entweder automatisch am Ende des vollständigen Blogworkflows oder ausna
 
 ## Evolution
 
-Vor der Arbeit liest der Herausgeber `../../conventions/evolution.md`. Nach jedem Durchlauf wertet er nur seinen eigenen Ablauf aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich. Zuständigkeit und Grenzen dieses Holons bleiben unverändert.
+Vor der Arbeit liest der Herausgeber `../../conventions/evolution.md`. Nach
+jedem Durchlauf wertet er nur seinen eigenen Ablauf aus. Nur relevante neue
+Erfahrung hält er gegenstandsbezogen unter `lernen/` fest. `lernen.md` bleibt
+ein historisches Archiv. Zuständigkeit und Grenzen dieses Holons bleiben
+unverändert.

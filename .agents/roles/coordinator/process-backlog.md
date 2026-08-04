@@ -44,7 +44,7 @@ Prozess vollständig aus.
 
 1. Für jede gefundene Datei Übergaben, Ergebnis und mögliche Blocker festhalten.
 2. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in
-   `lernen.md` dokumentieren.
+   nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/` festhalten.
 3. Bestätigen, dass veröffentlichte Artikel und unabhängige Änderungen
    unangetastet blieben.
 

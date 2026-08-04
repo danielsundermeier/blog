@@ -8,7 +8,8 @@ Ein ausdrücklicher menschlicher Auftrag nennt genau einen Entwurf unter `drafts
 
 1. `.agents/roles/herausgeber/AGENTS.md` vollständig lesen.
 2. Nur den genannten Entwurf an den Herausgeber übergeben.
-3. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und in `lernen.md` dokumentieren.
+3. Den eigenen Durchgang nach `../../conventions/evolution.md` auswerten und
+   nur relevante neue Erfahrung gegenstandsbezogen unter `lernen/` festhalten.
 4. Mit Veröffentlichungstag, Zielpfad, Commit-ID und gepushtem Branch abschließen.
 
 ## Grenzen

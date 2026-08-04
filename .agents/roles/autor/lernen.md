@@ -1,4 +1,7 @@
-# Lernprotokoll des Autors
+# Historisches Lernarchiv des Autors
+
+Diese Datei bewahrt frühere Zyklen unverändert. Neue relevante Erfahrung wird
+gegenstandsbezogen unter `lernen/` abgelegt; diese Datei wird nicht erweitert.
 
 Hier hält der Autor Erfahrungen aus abgeschlossenen Zyklen fest.
 

@@ -63,5 +63,7 @@ Der Editor setzt oder aktualisiert:
 - Nur `freigabe` und `abgeschlossen` dürfen an den Herausgeber übergeben werden.
 - `ton.bewertung` prüft insbesondere, ob der Text inspiriert, ohne zu belehren.
 - `dramaturgie.bewertung` prüft insbesondere die logische Gedankenkette und ob der Kreis zur anfänglichen Beobachtung geschlossen wird.
-- Frühere Bewertungen dürfen bei einer neuen Iteration ersetzt werden; die Lernerfahrung des Holons wird separat in dessen Lernprotokoll festgehalten.
+- Frühere Bewertungen dürfen bei einer neuen Iteration ersetzt werden;
+  relevante neue Lernerfahrung wird separat in der gegenstandsbezogenen
+  Lerndatei des Artikels festgehalten.
 - Verknüpfungen zu Knowledge oder anderen Holons sind noch nicht Bestandteil dieses Formats.

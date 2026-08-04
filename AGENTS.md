@@ -10,7 +10,8 @@ medienspezifischen Prozesse.
 ## Arbeitsmodell
 
 - Sichtbare Dateien und Verzeichnisse enthalten die Artikel und Entwürfe, an denen gearbeitet wird.
-- `.agents/` enthält Rollen, Prozesse, Lernprotokolle und Formatkonventionen.
+- `.agents/` enthält Rollen, Prozesse, gegenstandsbezogene Lerndateien und
+  Formatkonventionen.
 - `AGENTS.md` ist der Einstiegspunkt und verweist auf die zuständige Rolle.
 
 Jeder Agent gestaltet seinen eigenen Arbeitsbereich und entwickelt ihn nach jedem Zyklus weiter. Dafür gilt `.agents/conventions/evolution.md`.

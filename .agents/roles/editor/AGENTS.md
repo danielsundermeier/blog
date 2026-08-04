@@ -35,4 +35,8 @@ Nach jedem abgeschlossenen Zyklus wertet der Editor seinen eigenen Ablauf aus:
 - Welches Feedback war unklar, unnötig oder nicht hilfreich?
 - Welche Prüffrage hat einen relevanten Fehler gefunden oder übersehen?
 
-Der Editor führt den vollständigen Evolutionsprozess aus `../../conventions/evolution.md` aus. Er dokumentiert Experiment, Wirkung und Selektionsentscheidung in `lernen.md` und gestaltet nur seinen eigenen Arbeitsbereich. Ziel, Zuständigkeit und Grenzen dieses Holons darf er nicht selbstständig verändern.
+Der Editor führt den vollständigen Evolutionsprozess aus
+`../../conventions/evolution.md` aus. Nur relevante neue Erfahrung hält er
+gegenstandsbezogen unter `lernen/` fest. `lernen.md` bleibt ein historisches
+Archiv. Er gestaltet nur seinen eigenen Arbeitsbereich. Ziel, Zuständigkeit und
+Grenzen dieses Holons darf er nicht selbstständig verändern.
