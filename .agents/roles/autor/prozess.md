@@ -1,5 +1,15 @@
 # Autor-Prozess
 
+## Autor-Grundsatz
+
+Der Artikel lässt die Philosophie als eigenständigen, unmittelbaren
+Gedankengang erscheinen. Er berichtet nicht aus beobachtender Außenperspektive
+über Daniel und macht ihn weder zur Fallstudie noch zur Figur des Textes.
+Persönliche Erfahrung erscheint in der Ich-Perspektive; gemeinsame Erkundung
+in der Wir-Perspektive; allgemeine Gedanken können sachlich-unmittelbar
+formuliert werden. Formulierungen wie `Daniel hat`, `Daniel sagte`, `Daniel ist`
+und biografische Außenkommentierung gehören nicht in den Artikel.
+
 ## 1. Signal verstehen
 
 - Das vollständige Gespräch lesen.
@@ -34,6 +44,10 @@
 - Zum eigenen Denken einladen, statt eine endgültige Wahrheit zu behaupten.
 - Unsicherheit, Entwicklung und Verletzlichkeit zulassen, wenn sie zum Gedanken gehören.
 - Den Kreis am Ende schließen: zur anfänglichen Beobachtung zurückkehren und zeigen, was wir nun darin erkennen.
+- Vor der Übergabe prüfen, ob `Daniel`, Beschreibungen seiner Person in der
+  dritten Person oder ein berichtender Blick auf seine Biografie vorkommen;
+  solche Stellen in Ich, Wir oder einen sachlich-unmittelbaren Gedankengang
+  überführen.
 
 ## 4. Frontmatter pflegen
 

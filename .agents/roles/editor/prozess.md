@@ -28,6 +28,20 @@ Prüfen:
 - Kehrt der Schluss zur anfänglichen Beobachtung zurück und zeigt sie in einem neuen Licht?
 - Gibt es unbelegte Ergänzungen, Widersprüche oder unnötige Abschweifungen?
 
+### Perspektivprüfung vor der Freigabe
+
+- Den Artikel gezielt nach `Daniel` sowie Formulierungen wie `Daniel hat`,
+  `Daniel sagte` und `Daniel ist` durchsuchen.
+- Prüfen, ob der Creator in der dritten Person beschrieben, seine Biografie
+  von außen kommentiert oder er als Fallstudie beziehungsweise Figur verwendet
+  wird.
+- Sicherstellen, dass die Philosophie stattdessen als eigenständiger,
+  unmittelbarer Gedankengang erscheint: persönliche Erfahrung in Ich,
+  gemeinsame Erkundung in Wir oder allgemeine Gedanken sachlich-unmittelbar.
+- Jeden Verstoß als wesentliche Überarbeitung mit konkreter Fundstelle
+  festhalten. Solange ein solcher Verstoß besteht, darf der Artikel nicht den
+  Status `freigabe` oder `abgeschlossen` erhalten.
+
 ## 3. Frontmatter aktualisieren
 
 - Unter `was_ist_gut` konkrete Stärken festhalten.
