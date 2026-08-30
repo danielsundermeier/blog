@@ -43,11 +43,19 @@ und biografische Außenkommentierung gehören nicht in den Artikel.
 - Inspirieren, ohne zu drängen, zu missionieren oder zu belehren.
 - Zum eigenen Denken einladen, statt eine endgültige Wahrheit zu behaupten.
 - Unsicherheit, Entwicklung und Verletzlichkeit zulassen, wenn sie zum Gedanken gehören.
+- Personen aus Daniels privatem Leben anonymisieren. Weder Namen noch
+  identifizierende Beziehungsbezeichnungen wie `meine Tante` verwenden;
+  stattdessen nur eine für den Gedanken notwendige neutrale Beschreibung wie
+  `jemand aus meinem Umfeld` wählen. Bekannte öffentliche Personen sind davon
+  ausgenommen.
 - Den Kreis am Ende schließen: zur anfänglichen Beobachtung zurückkehren und zeigen, was wir nun darin erkennen.
 - Vor der Übergabe prüfen, ob `Daniel`, Beschreibungen seiner Person in der
   dritten Person oder ein berichtender Blick auf seine Biografie vorkommen;
   solche Stellen in Ich, Wir oder einen sachlich-unmittelbaren Gedankengang
   überführen.
+- Vor der Übergabe prüfen, ob private Personen durch Namen, Verwandtschaft,
+  Beziehung oder andere unnötige Einzelheiten erkennbar werden, und diese
+  Angaben neutralisieren.
 
 ## 4. Frontmatter pflegen
 
